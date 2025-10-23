@@ -1,0 +1,421 @@
+---
+from: markdown+emoji
+format: 
+  letterbox-revealjs:
+    css: [custom.css, timeline.css]
+    progress: true
+    menu: true
+    width: 1280
+    height: 720
+    embed-resources: true
+    transition: fade
+callout-appearance: simple
+editor_options: 
+  chunk_output_type: console
+date: last-modified
+bibliography: refs.json
+csl: apa-6th-edition.csl
+---
+
+```{r}
+#| include: false
+library(tidyverse)
+```
+
+::: {.columns}
+::: {.column width="80%"}
+::: {.title data-id="title"}
+On the Relationship Between ![](resources/science.svg){.icon} and ![](resources/religion.svg){.icon}
+:::
+
+<div style="height: 0.2em;"></div>
+
+::: {.subtitle data-id="subtitle"}
+Theory, Measurement, and Early Evidence for the Psychological Mechanism
+:::
+
+<div style="height: 1em;"></div>
+
+##### Dissertation Defense
+
+<div style="height: 0.5em;"></div>
+
+::: {.dateplace}
+Wednesday, 12 November 2025
+:::
+
+<div style="height: 0.75em;"></div>
+
+### Rizqy Amelia Zein
+#### Supervisor: Prof. Dr. Mario Gollwitzer
+##### Chair of Social Psychology, LMU Munich
+:::
+:::
+
+::: {.column width="20%"}
+![](img/LMU_Muenchen_Logo.png){.sticker-float-right}
+:::
+
+<!-- Above is title slide -->
+
+<!-- Theoretical Background #1 -->
+
+## Theoretical Background
+
+::: {.incremental}
+::: {.column width="70%"}
+::: {.smaller}
+
+* **Barbour's Taxonomy** [@barbourIssuesScienceReligion1966; @barbourReligionScienceHistorical1998; @barbourWhenScienceMeets2000; @barbourTypologiesRelatingScience2002] assumes that people can perceive ![](resources/science.svg){.icon} and ![](resources/religion.svg){.icon} as:
+  * **Conflict**: inherently incompatible, then cannot mentally coexist.
+  * **Independence**: separate domains or non-overlapping *magisteria* [@gouldNonOverlappingMagisteria1999]
+  * **Dialogue**: distinct but incomplete without each other.
+  * **Integration**: a unified belief system with no categorical distinction.
+
+* **Assumptions**: The qualitative distinctions between *taxons* are delicate and they are situation-dependent characterstics [@barbourTypologiesRelatingScience2002].
+* Perceptions of the relationship between ![](resources/science.svg){.icon} and ![](resources/religion.svg){.icon} **is hereby defined as** a [mental schema]{.mark} for [processing potentially competing explanations]{.mark} and is expected to predict how people [interpret, evaluate, and respond]{.mark} to situations in which both scientific and religious explanations are salient. 
+* For brevity, I will refer to this construct as ['**mental models**']{.mark} later on. 
+
+:::
+:::
+:::
+
+![](img/foto.jpg){.image-right}
+
+::: {.notes}
+The conquest started with a centuries-old question: are science and religion in conflict? While it's seemingly an outdated question, the idea how people actually perceive the relationship, regardless of whether or not substantive conflict exists, is a contemporary interest started only three decades ago. According to Barbour...
+
+Barbour didn't really specify any working definition beyond arguing that these mental models represent subjective perceptions of the relationship between science and religion, so we define that this construct as...
+:::
+
+<!-- Research Questions #2 -->
+
+## Research Questions
+
+::: {.container .fragment .fade-up fragment-index=1}
+::: {.timeline .timeline-left style="height: 720px;"}
+
+<!-- First Pillar -->
+
+::: {.timeline-block}
+::: {.timeline-icon}
+![](resources/pillar1.svg)
+:::
+::: {.timeline-content}
+**Does Barbour's taxonomy exist in reality? If so, why do people differ in their mental models?**
+
+::: {.timeline-details .fragment .fade-out fragment-index=2}
+The goal is to illustrate the [underlying psychological mechanisms]{.mark} responsible for the formation of the mental models.
+
+:::
+
+::: {.timeline-date}
+Pillar 1: Theory
+:::
+:::
+:::
+
+<!-- Second Pillar -->
+
+::: {.timeline-block .fragment .fade-up fragment-index=2}
+::: {.timeline-icon}
+![](resources/pillar2.svg)
+:::
+::: {.timeline-content}
+**If it exists, how can one systematically operationalize it for empirical research?**
+
+::: {.timeline-details .fragment .fade-out fragment-index=3}
+The goal is to [quantify qualitative distinctions]{.mark} of the mental models.
+
+:::
+::: {.timeline-date}
+Pillar 2: Measure
+:::
+:::
+:::
+
+
+<!-- Third Pillar -->
+
+::: {.timeline-block .fragment .fade-up fragment-index=3}
+::: {.timeline-icon}
+![](resources/pillar3.svg)
+:::
+::: {.timeline-content}
+**Then, what does it predict?**
+
+::: {.timeline-details}
+The goal is to investigate whether the mental models can [predict]{.mark} how people evaluate the utility of specific scientific and religious explanations.
+
+:::
+::: {.timeline-date}
+Pillar 3: Mechanistic Testing
+:::
+:::
+:::
+
+
+
+
+:::
+:::
+
+::: {.notes}
+While Barbour's taxonomy I mentioned earlier is very influential across different scientific disciplines and helpful in guiding interested researchers in this topic, the taxonomy is purely descriptive and remain silent in at least three following aspects.
+
+:::
+
+<!-- Manuscript 1: Title #3 -->
+
+## Pillar ![](resources/one.svg){.icon}: Theory
+
+![](img/pillar1/man1.png){.center}
+
+<!-- Manuscript 1: Theoretical Foundations #4 -->
+
+## Some Insights {.center}
+
+::: {.incremental}
+::: {.columns}
+
+::: {.column width="55%"}
+
+#### Is the taxonomy real? {.center .fragment}
+
+::: {.smaller}
+* There is handful of evidence from qualitative studies for Barbour's taxonomy, mostly in learning sciences, but they are by and large fragmented.
+* Mental models have different names but the most straightforward are suggested by @yasriRelatingScienceReligion2013, which are [**Conflict**]{.mark}, [**Compartment**]{.mark} (= *Independence*), [**Complementary**]{.mark} (= *Dialogue*) and [**Consonance**]{.mark} (= *Integration*).
+* [**Context-Switch**]{.mark} is a new variant [@shipmanChangesStudentViews2002; @taberSecondaryStudentsResponses2011; @yasriUnderstandingStudentApproaches2012], which represents a pragmatic strategy of an **underlying conflict belief** by flexibly switching between ![](resources/science.svg){.icon} and ![](resources/religion.svg){.icon} depending on the social situation or demands.
+
+:::
+
+:::
+
+
+::: {.column width="45%"}
+
+#### Why people differ? {.center .fragment}
+
+::: {.smaller}
+* [**Cognitive elements**]{.mark}: cognitive flexibility, epistemic belief.
+* [**Motivational elements**]{.mark}: social identity, political ideology, moral belief, epistemic needs and motives.
+* Differences in cognitive and motivational aspects here pave the way for [**explanatory coexistence**]{.mark} [@legareCoexistenceNaturalSupernatural2012; @legareBewitchmentBiologyBoth2008].
+
+* Explanatory coexistence can occur because ![](resources/science.svg){.icon} and ![](resources/religion.svg){.icon} have **differential utility** [@davoodiExplainingExistentialScientific2022] and thus are **processed differently** [@vanleeuwenReligiousCredenceNot2014].
+
+:::
+
+:::
+
+:::
+:::
+
+::: {.notes}
+people give different labels to the same model description. For example, "independence" is labelled as "compartment" or "NOMA".
+
+So here context-switchers, for example, would use science for school, religion for family gathering in Christmas.
+
+Explanatory coexistence refers to the simultaneous use of natural (scientific) and supernatural (religious) explanations for one phenomenon.
+:::
+
+<!-- Manuscript 1: Main Arguments #5 -->
+
+## {}
+
+![](img/pillar1/flowchart_simplified.png){style="display: block; margin: 0 auto;"}
+
+::: {.notes}
+
+:::
+
+<!-- Manuscript 2: Title #6 -->
+
+## Pillar ![](resources/two.svg){.icon}: Measurement
+
+![](img/pillar2/man2.png){.center}
+
+<!-- Manuscript 2: Rationale + Theoretical Background #7 -->
+
+## Rationale 
+
+::: {.incremental}
+::: {.columns}
+
+::: {.column width="40%"}
+
+::: {.smaller}
+* There have been some efforts to operationalize Barbour's taxonomy ^[@johnsonScienceGodCosmos2019; @johnsonInteractionFaithScience2023; @marinHowPeoplePerceive2021; @woolleyTeachersPerspectivesRelationship2023; @yasriRelatingScienceReligion2013], but they did not satisfy Barbour's most important assumption: [**fuzzy boundaries**]{.mark} between the mental models.
+* Ultimately, is Barbour's taxonomy testable at all?
+* One way to operationalize it is to assume that mental models don't only differ in their ***kind*** but also in their ***degree*** of conflict -- compatibility.
+
+:::
+:::
+
+:::
+:::
+
+
+::: {.notes}
+lalalala
+
+:::
+
+## {}
+
+![](img/pillar2/continuum.png){style="display: block; margin: 0 auto;"}
+
+::: {.notes}
+So here is the visual illustration of our measurement assumptions. Here we have two assumptions: the mental models differ both qualitatively (differences in kind), but also quantitatively (or differences in degree).
+ 
+:::
+
+## Rationale 
+
+
+::: {.columns}
+
+::: {.column width="40%"}
+
+::: {.smaller}
+* There have been some efforts to operationalize Barbour's taxonomy ^[@johnsonScienceGodCosmos2019; @johnsonInteractionFaithScience2023; @marinHowPeoplePerceive2021; @woolleyTeachersPerspectivesRelationship2023; @yasriRelatingScienceReligion2013], but they did not satisfy Barbour's most important assumption: [**fuzzy boundaries**]{.mark} between the mental models.
+* Ultimately, is Barbour's taxonomy testable at all?
+* One way to operationalize it is to assume that mental models don't only differ in their ***kind*** but also in their ***degree*** of conflict -- compatibility.
+
+
+:::
+:::
+
+::: {.incremental}
+::: {.column width="60%"}
+::: {.smaller}
+* We developed a novel measure that mirrors theoretical and empirical descriptions of mental models
+* ..and assumed that people would respond to the scale items by following an [**unfolding (Thurstone) response process**]{.mark} [@carterUnderstandingPsychologyUnfolding2010; @robertsGeneralizedGradedUnfolding2018].
+* To test these assumptions, we performed one pilot and three studies across three German (N = 2,920) and one U.S. sample (N = 1,197).
+* Since mental models are [culturally embedded]{.mark} [@johnsonIntersectionScienceReligion2020; @riosSciencereligionCompatibilityBeliefs2019; @riosMesearchNecessarilyLess2020], the scale might carry the risk of systematic cultural bias.
+* Discriminant, convergent, and criterion-related validity were also examined.
+
+:::
+:::
+
+:::
+:::
+
+
+::: {.notes}
+lalalala
+
+:::
+
+<!-- Manuscript 2: Main Findings #8 -->
+
+## Results
+
+::: {.incremental}
+::: {.columns}
+::: {.column width="60%"}
+
+::: {.smaller}
+* Scale data in four samples show that the construct is unidimensional, bipolar. 
+  * ..but the Context-Switch is closer to compatibility than conflict, unlike previously hypothesized.
+* Generalized Graded **Unfolding** Model (GGUM) fit better to the data than Generalized Partial Credit Model (GPCM - **Likert**) in all samples.
+* US participants perceive more conflict than Germans at same trait level by ~0.5SD (ETSSD = 0.419).
+* The scale measures a construct that is conceptually distinct from Belief in Science [@fariasScientificFaithBelief2013] ($\rho$ = .68 Germany, -.50 USA).
+* High correlation with @leichtContentMattersPerceptions2021 scale ($\rho^2$ = .57 Germany, .54 USA), but sufficient unshared variance still left.
+
+:::
+:::
+
+:::
+
+
+
+<!-- Manuscript 3: Title #9 -->
+
+## Pillar ![](resources/three.svg){.icon}: Mechanistic Testing
+
+![](img/pillar3/man3.png){.center}
+
+<!-- Manuscript 3: Rationale + Theoretical Background #10 -->
+
+<!-- Manuscript 3: Main Arguments #11 -->
+
+<!-- Conclusions, Contributions, and Limitations #12 -->
+
+## What Have We Learned?
+
+::: {.incremental}
+::: {.columns}
+::: {.column width="50%"}
+
+##### **Conclusion** {.center .fragment}
+
+::: {.smaller}
+- Pillar ![](resources/one.svg){.icon}: People's perceptions on the relationship between ![](resources/science.svg){.icon} and ![](resources/religion.svg){.icon} emerge through identifiable psychological (i.e., cognitive and motivational) processes.
+- Pillar ![](resources/two.svg){.icon}: These perceptions, conceptualized as "the mental models", are mapped on to different regions of a unidimensional, bipolar construct, which is deeply embedded in the culture.
+  - But, we found that the Context-Switch is closer to compatibility than conflict.
+  
+- Pillar ![](resources/three.svg){.icon}: ...and they predict how people evaluate the utility of religious, but *not* scientific, explanations.
+:::
+
+:::
+
+::: {.column width="50%"}
+
+##### **Contributions** {.center .fragment}
+
+::: {.smaller}
+- Avoiding framing science as being antithetical to ![](resources/religion.svg){.icon} when delivering science comms to religious audiences
+:::
+
+##### **Limitations** {.center .fragment}
+
+::: {.smaller}
+- Avoiding framing science as being antithetical to ![](resources/religion.svg){.icon} when delivering science comms to religious audiences
+:::
+
+:::
+:::
+:::
+
+<!-- Closing #13 -->
+
+## Thank you! :sparkles:
+
+::: {.columns}
+::: {.column width="60%"}
+
+::: {.incremental}
+::: {.callout-tip}
+## Where to go from here?
+
+::: {.smaller}
+- Do mental models predict how people [change/update]{.mark} their scientific/religious beliefs?
+- Are models [stable]{.mark} characteristics or [situation-dependent]{.mark}? What are the boundary conditions?
+- What are boundary conditions related to the mental models? (e.g., uncertainty? death-related events? threatened social identity?)
+- Can we improve the practical use of the developed measure?
+- Could the models play a role on people's decisions on various aspects of their life? (e.g., public-health/sustainability-related decision making, etc.)
+- Could science communication strategy be personalized based on one's preferred model? If so, would it be practically useful?
+:::
+
+:::
+:::
+
+:::
+
+::: {.column width="40%"}
+
+##### Project Supported by: {.center}
+
+![](img/DAAD.png){width="80%"} ![](img/jtf.png){width="80%"} ![](img/osr.png){width="80%"}
+
+:::
+:::
+
+::: {.notes}
+To end this presentation, let me emphasize several points from the presented ideas.
+:::
+
+## References
+
+::: {#refs}
+:::
