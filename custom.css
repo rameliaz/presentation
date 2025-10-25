@@ -241,7 +241,7 @@ span.term {
   white-space: pre;
 }
 
-img.DAAD {
+.img-DAAD {
   height: 160px;
   position: absolute;
   top: 3em;
@@ -249,7 +249,7 @@ img.DAAD {
   z-index: 1;
 }
 
-img.JTF {
+.img-JTF {
   height: 160px;
   position: absolute;
   top: 7em;
@@ -257,7 +257,7 @@ img.JTF {
   z-index: 1;
 }
 
-img.OSR {
+.img-OSR {
   height: 160px;
   position: absolute;
   top: 12em;
@@ -271,8 +271,4 @@ img.OSR {
 
 .smaller {
   font-size: 0.7em;
-}
-
-.hidden-title {
-  display: none;
 }
