@@ -325,12 +325,12 @@ We went through those qualitative studies on Barbour's taxonomy to formulate the
 ::: {.column width="70%"}
 
 ::: {.smaller}
-* Scale data in four samples show that the construct is [**unidimensional and bipolar**]{.mark}. 
-  * ..but the [Context-Switch]{.mark} is closer to compatibility than conflict, unlike previously hypothesized.
-* Generalized Graded [**Unfolding**]{.mark} Model (GGUM) [fit better to the data]{.mark} than Generalized Partial Credit Model (GPCM - **Likert**) in all samples.
-* ![](resources/usa.svg){.icon} participants perceive [**more conflict**]{.mark} than ![](resources/de.svg){.icon} at same trait level by ~0.4SD (ETSSD = 0.419).
-* The construct is [conceptually distinct]{.mark} from Belief in Science [@fariasScientificFaithBelief2013] ($\rho^2$ = .46 ![](resources/de.svg){.icon}, .25 ![](resources/usa.svg){.icon}) and [similar to]{.mark} @leichtContentMattersPerceptions2021 scale ($\rho^2$ = .57 ![](resources/de.svg){.icon} .54 ![](resources/usa.svg){.icon}), but sufficient unshared variance still left.
-* **Religiosity**, **religious identity**, and **religious upbringing** are associated with [**higher compatibility**]{.mark} perceptions in both ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon} samples.
+* Scale data in four samples showed that the construct is [**unidimensional and bipolar**]{.mark}. 
+  * ..but the [Context-Switch]{.mark} was closer to compatibility than conflict, unlike previously hypothesized.
+* Generalized Graded [**Unfolding**]{.mark} Model (GGUM) [fitted better to the data]{.mark} than Generalized Partial Credit Model (GPCM - **Likert**) in all samples.
+* ![](resources/usa.svg){.icon} participants perceived [**more conflict**]{.mark} than ![](resources/de.svg){.icon} at same trait level by ~0.4SD (ETSSD = 0.419).
+* The construct was [conceptually distinct]{.mark} from Belief in Science [@fariasScientificFaithBelief2013] ($\rho^2$ = .46 ![](resources/de.svg){.icon}, .25 ![](resources/usa.svg){.icon}) and [similar to]{.mark} @leichtContentMattersPerceptions2021 scale ($\rho^2$ = .57 ![](resources/de.svg){.icon} .54 ![](resources/usa.svg){.icon}), but sufficient unshared variance still left.
+* **Religiosity**, **religious identity**, and **religious upbringing** were associated with [**higher compatibility**]{.mark} perceptions in both ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon} samples.
 
 :::
 :::
@@ -341,7 +341,7 @@ We went through those qualitative studies on Barbour's taxonomy to formulate the
 ![](img/pillar2/pca.png){.image-right}
 
 ::: {.notes}
-We ran principal component analysis and these biplot here tell us that the construct is unidimensional and bipolar. The plots here maybe a bit too small, but the general pattern that is clear here from afar is that the items lined up like a horseshoe where the extremes: conflict and consonance are grouped in the opposite directions while here in the middle we see compartment items, then context-switch and complementary. 
+We ran principal component analysis and these biplot here tell us that the construct is unidimensional and bipolar. The plots here maybe a bit too small, but the general pattern that is clear that the items lined up like a horseshoe where the extremes: conflict and consonance are grouped in the opposite directions while here in the middle we see compartment items, then followed by context-switch and complementary. 
 
 But unlike initially suspected, context-switch here are closer to compatibility than to conflict.
 
@@ -377,7 +377,7 @@ In this case, we have two theories offering different predictions.
 ::: {.smaller}
 * ![](resources/science.svg){.icon} and ![](resources/religion.svg){.icon} are *means* to achieve epistemic *goals* (i.e., "to explain why things happen").
 * GST predicts that presenting scientific and religious explanations together (as **multiple means**) leads to [**reduced**]{.mark} **perceived utility** of [**both**]{.mark} compared to presenting them *alone* (i.e., the [**dilution effect**]{.mark}, @kruglanskiHowManyRoads2011; @belangerMoreLessEffect2015).
-* Religious people relied on ![](resources/science.svg){.icon} *and* ![](resources/religion.svg){.icon} moderately, but non-religious people relied on ![](resources/science.svg){.icon} highly [@jacksonReligiousPeopleView2024].
+* Religious people relied on ![](resources/science.svg){.icon} *and* ![](resources/religion.svg){.icon} moderately, but non-religious people highly relied on ![](resources/science.svg){.icon} [@jacksonReligiousPeopleView2024].
 * Therefore, [**the number of available (scientific and/or religious) explanations**]{.mark} determines how epistemically valuable people perceive these explanations to be.
 
 :::
@@ -404,7 +404,7 @@ In this case, we have two theories offering different predictions.
 :::
 
 ::: {.notes}
-The dilution effect here implies that sci and rel can be seen as substitutes so people would rely less on them or to put simply, "all roads lead to Rome"
+The dilution effect here implies that sci and rel can be seen as substitutes so people would rely less on them or to put simply, "all roads lead to Rome". Aligning to this predictio, previous research found that....
 
 :::
 
