@@ -253,7 +253,7 @@ We learned from the first pillar that Barbour's taxonomy does exist in reality a
 ::: {.column width="50%"}
 
 ::: {.smaller}
-* There have been some efforts to operationalize Barbour's taxonomy [@johnsonScienceGodCosmos2019; @johnsonInteractionFaithScience2023; @marinHowPeoplePerceive2021; @woolleyTeachersPerspectivesRelationship2023; @yasriRelatingScienceReligion2013], but they did ***not*** satisfy Barbour's most important assumption: [**fuzzy boundaries**]{.mark} between the mental models.
+* There have been some efforts to operationalize Barbour's taxonomy [@johnsonScienceGodCosmos2019; @johnsonInteractionFaithScience2023; @marinHowPeoplePerceive2021; @woolleyTeachersPerspectivesRelationship2023; @yasriRelatingScienceReligion2013], but they did ***not*** satisfy Barbour's most important assumption: [**delicate boundaries**]{.mark} between the mental models.
 * One way to operationalize the taxonomy is to assume that mental models do not only differ in their [***kind***]{.mark} but also in their [***degree***]{.mark} of conflict ![](resources/arrow.svg){.icon} compatibility.
 
 :::
