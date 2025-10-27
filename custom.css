@@ -272,3 +272,10 @@ span.term {
 .smaller {
   font-size: 0.7em;
 }
+
+.highlight-last  {
+  color: grey;
+  .current-fragment {
+    color: #2B864C;
+  }
+}

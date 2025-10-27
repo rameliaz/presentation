@@ -66,13 +66,13 @@ Wednesday, 12 November 2025
 ::: {.column width="70%"}
 ::: {.smaller}
 
-* **Barbour's Taxonomy** [@barbourIssuesScienceReligion1966; @barbourReligionScienceHistorical1998; @barbourWhenScienceMeets2000; @barbourTypologiesRelatingScience2002] assumes that people can perceive ![](resources/science.svg){.icon} and ![](resources/religion.svg){.icon} as:
-  * **Conflict**: inherently incompatible, then cannot mentally coexist.
-  * **Independence**: separate domains or non-overlapping *magisteria* [@gouldNonOverlappingMagisteria1999]
-  * **Dialogue**: distinct but incomplete without each other.
-  * **Integration**: a unified belief system with no categorical distinction.
+* **Barbour's Taxonomy** [@barbourIssuesScienceReligion1966; @barbourReligionScienceHistorical1998; @barbourWhenScienceMeets2000; @barbourTypologiesRelatingScience2002] proposes that people can perceive ![](resources/science.svg){.icon} and ![](resources/religion.svg){.icon} as:
+  * **Conflict**: [inherently incompatible]{.mark}, then cannot mentally coexist.
+  * **Independence**: [separate domains]{.mark} or non-overlapping *magisteria* [@gouldNonOverlappingMagisteria1999]
+  * **Dialogue**: [distinct but incomplete]{.mark} without each other.
+  * **Integration**: a [unified belief system]{.mark} with no categorical distinction.
 
-* **Assumptions**: The qualitative distinctions between *taxons* are delicate and they are situation-dependent characteristics [@barbourTypologiesRelatingScience2002].
+* **Assumptions**: The qualitative distinctions between *taxons* are **delicate** and they are **situation-dependent** characteristics [@barbourTypologiesRelatingScience2002].
 * Perceptions of the relationship between ![](resources/science.svg){.icon} and ![](resources/religion.svg){.icon} **is hereby defined as** a [mental schema]{.mark} for [processing potentially competing explanations]{.mark} and is expected to predict how people [interpret, evaluate, and respond]{.mark} to situations in which both scientific and religious explanations are salient. 
 * For brevity, I will refer to this construct as ['**mental models**']{.mark} later on. 
 
@@ -83,9 +83,10 @@ Wednesday, 12 November 2025
 ![](img/foto.jpg){.image-right}
 
 ::: {.notes}
-The conquest started with a centuries-old question: are science and religion in conflict? While it's seemingly an outdated question, the idea how people actually perceive the relationship, regardless of whether or not substantive conflict exists, is a contemporary interest started only three decades ago. According to Barbour...
+the question on whether science and religion are in conflict has been asked for centuries, but the idea how people subjectively perceive the relationship, regardless of whether or not substantive conflict exists, is a contemporary interest started only thirty years ago. According to Barbour, who is widely cited for this topic...
 
-Barbour didn't really specify any working definition beyond arguing that these mental models represent subjective perceptions of the relationship between science and religion, so we define that this construct as...
+Barbour didn't really specify any working definition beyond arguing that these mental models represent subjective perceptions, so we define that this construct as...
+
 :::
 
 <!-- Research Questions #2 -->
@@ -183,9 +184,9 @@ While Barbour's taxonomy I mentioned earlier is very influential across differen
 #### Is the taxonomy real? {.center .fragment}
 
 ::: {.smaller}
-* There is [handful of evidence]{.mark} from qualitative studies for Barbour's taxonomy, mostly in learning sciences, but they are by and large fragmented.
+* There is [handful of evidence]{.mark} from [qualitative studies](#a3) for Barbour's taxonomy, mostly in learning sciences, but they are by and large fragmented.
 * Mental models have different names but the most straightforward are suggested by @yasriRelatingScienceReligion2013, which are [**Conflict**]{.mark}, [**Compartment**]{.mark} (= *Independence*), [**Complementary**]{.mark} (= *Dialogue*) and [**Consonance**]{.mark} (= *Integration*).
-* [**Context-Switch**]{.mark} is a new variant [@shipmanChangesStudentViews2002; @taberSecondaryStudentsResponses2011; @yasriUnderstandingStudentApproaches2012], which represents a pragmatic strategy of an **underlying conflict belief** by flexibly switching between ![](resources/science.svg){.icon} and ![](resources/religion.svg){.icon} depending on the social situation or demands.
+* [**Context-Switch**]{.mark} is a new variant [@shipmanChangesStudentViews2002; @taberSecondaryStudentsResponses2011; @yasriUnderstandingStudentApproaches2012], which represents a pragmatic strategy of an **underlying conflict belief** by flexibly switching between ![](resources/science.svg){.icon} and ![](resources/religion.svg){.icon} depending on the social situations, cues or demands.
 
 :::
 
@@ -211,11 +212,12 @@ While Barbour's taxonomy I mentioned earlier is very influential across differen
 :::
 
 ::: {.notes}
-people give different labels to the same model description. For example, "independence" is labelled as "compartment" or "NOMA".
-
 So here context-switchers, for example, would use science for school, religion for family gathering in Christmas.
 
-Explanatory coexistence refers to the simultaneous use of natural (scientific) and supernatural (religious) explanations for one phenomenon.
+Explanatory coexistence refers to the simultaneous use of natural (scientific) and supernatural (religious) explanations for one phenomenon, with three different levels of integration: target-dependent/surface level, synthetic/moderate level, integrative thinking/deep level of integration.  
+
+People give different labels to the same model description. For example, "independence" is labelled as "compartment" or "NOMA".
+
 :::
 
 <!-- Manuscript 1: Main Arguments #4 -->
@@ -226,6 +228,8 @@ Explanatory coexistence refers to the simultaneous use of natural (scientific) a
 
 ::: {.notes}
 
+Here is a simplified version of the flowchart presented in the article. As can be seen here, people can only adopt non-conflict beliefs when they are willing to be cognitively flexible and motivated to reconcile. By then, they would utilize explanatory coexistence, and depending on the level of integration they desire, they could adopt compartment, complementary or consonance views. Those whose cognitive and motivational elements do not satisfy these conditions would instead adopt a conflict belief. They may favor religion or science, but if they have no specific preference, they will adopt a context-switch view
+
 :::
 
 <!-- Manuscript 2: Title #5 -->
@@ -233,6 +237,11 @@ Explanatory coexistence refers to the simultaneous use of natural (scientific) a
 ## Manuscript ![](resources/two.svg){.icon}: Measurement
 
 ![](img/pillar2/man2.png){.center}
+
+::: {.notes}
+We learned from the first pillar that Barbour's taxonomy does exist in reality and comes with five, not four, types. Then the next question would be, how can one systematically investigate them for empirical research? and this is the focus of the second manuscript.
+
+:::
 
 <!-- Manuscript 2: Rationale + Theoretical Background #6 -->
 
@@ -255,16 +264,16 @@ Explanatory coexistence refers to the simultaneous use of natural (scientific) a
 
 
 ::: {.notes}
-lalalala
+Barbour proposes taxonomy but he cautions people not to put people into boxes and that what these studies did. And it is somewhat counterintuitive to propose a taxonomy but then tell people not to use it for categorizing people.
 
 :::
 
 ## 
 
-![](img/pillar2/continuum.png){style="display: block; margin: 0 auto;"}
+![](img/pillar2/continuum.png){fig-align="center"}
 
 ::: {.notes}
-So here is the visual illustration of our measurement assumptions. Here we have two assumptions: the mental models differ both qualitatively (differences in kind), but also quantitatively (or differences in degree).
+So here is the visual illustration of our measurement assumptions. Here we have two assumptions: the mental models differ both qualitatively (differences in kind), but also quantitatively (or differences in degree). Ideally, we wanted to capture both of these assumptions in the measurement model.
  
 :::
 
@@ -285,9 +294,9 @@ So here is the visual illustration of our measurement assumptions. Here we have 
 ::: {.incremental}
 ::: {.column width="50%"}
 ::: {.smaller}
-* We developed [**a novel measure**]{.mark} that mirrors *theoretical* and empirical descriptions of mental models
+* We developed [**a novel measure**]{.mark} that mirrors *theoretical* and *empirical* descriptions of mental models
 * ..and assumed that people would respond to the scale items by following an [***unfolding*** **(Thurstone) response process**]{.mark} [@carterUnderstandingPsychologyUnfolding2010; @robertsGeneralizedGradedUnfolding2018].
-* We performed one pilot and three studies across three ![](resources/de.svg){.icon} (*N* = 2,920) and one ![](resources/usa.svg){.icon} sample (*N* = 1,197).
+* We performed one pilot and two studies across three ![](resources/de.svg){.icon} (*N* = 2,920) and one ![](resources/usa.svg){.icon} sample (*N* = 1,197).
 * Since mental models are [culturally embedded]{.mark} [@johnsonIntersectionScienceReligion2020; @riosSciencereligionCompatibilityBeliefs2019; @riosMesearchNecessarilyLess2020], the scale might contain systematic cultural bias, so DIF analysis was a necessity.
 * Discriminant, convergent, and criterion-related validity were also examined.
 
@@ -299,7 +308,8 @@ So here is the visual illustration of our measurement assumptions. Here we have 
 
 
 ::: {.notes}
-lalalala
+We went through those qualitative studies on Barbour's taxonomy to formulate the items. 
+...and the unfolding assumption here is important to capture response process since we were dealing with preference data and we need to differentiate people who like to position themselves in the middle of the continuum. And these very people usually disagree with the extremes in both direction. We tested this unfolding assumption by comparing unfolding model with the dominant Likert/linear model to see which one fitted better to the scale data.
 
 :::
 
@@ -327,12 +337,28 @@ lalalala
 
 ![](img/pillar2/pca.png){.image-right}
 
+::: {.notes}
+We ran principal component analysis and these biplot here tell us that the construct is unidimensional and bipolar. The plots here maybe a bit too small, but the general pattern that is clear here from afar is that the items lined up like a horseshoe where the extremes: conflict and consonance are grouped in the opposite directions while here in the middle we see compartment items, then context-switch and complementary. 
+
+But unlike initially suspected, context-switch here are closer to compatibility than to conflict.
+
+:::
+
 
 <!-- Manuscript 3: Title #8 -->
 
 ## Manuscript ![](resources/three.svg){.icon}: Mechanistic Testing
 
 ![](img/pillar3/man3.png){.center}
+
+::: {.notes}
+We learned from the second part of the project that religious people tend to see compatibility between sci and rel. 
+
+But why many previous studies demonstrated that religious individuals, even though they tend to see compatibility between science and religion, trust science less than non-religious people.
+
+Again, Barbour's taxonomy lacks specified mechanisms regarding what it predicts so we need a help from other existing, well-established theories.
+
+:::
 
 <!-- Manuscript 3: Rationale + Theoretical Background #9 -->
 
@@ -375,13 +401,9 @@ lalalala
 :::
 
 ::: {.notes}
-We learned from the previous pillar that religious people tend to see compatibility between sci and rel, but why many previous studies demonstrated that they trust science less than non-religious people. Again, Barbour's taxonomy lacks fully specified mechanism regarding what it predicts.
-
-Here we'd like to examine if the general perception of the relationship between sci and rel can explain how people see the epistemic value of a very specific explanation.
-
 There are two theories offering different, but not necessarily mutually exclusive predictions.
-
-Equifinality: sci and rel are seen as substitutable "all roads lead to Rome"
+Here we'd like to examine if the general perception of the relationship between sci and rel can explain how people see the epistemic value of a very specific explanation.
+Dilution here implies that the means are equifinal. That means, sci and rel are seen as substitutable or to put simply, "all roads lead to Rome"
 
 :::
 
@@ -395,10 +417,10 @@ Equifinality: sci and rel are seen as substitutable "all roads lead to Rome"
 ::: {.column width="50%"}
 
 ::: {.smaller}
-* A **within-subject** experiment (N = 719)
+* A **within-subject** experiment (*N* = 719)
 * Participants were randomly presented with ![](resources/one.svg){.icon} (scientific *or* religious), ![](resources/two.svg){.icon} (always one scientific *and* one religious), and ![](resources/four.svg){.icon} (always two scientific *and* two religious) of three existential-related incidents [@poltHeideggerIntroduction1999; @sullivanComprehensiveUnderstandingExistential2012]: [**flood**]{.mark}, [**war**]{.mark}, and [**climate crisis**]{.mark}.
 * The order of both incidents and number of explanations was **counterbalanced** using a Latin square design.
-* Then, asked participants to rate each explanation presented to them for their epistemic utility (a 4-item, 7-point Likert scale), their perceptions of the relationship between ![](resources/science.svg){.icon} and ![](resources/religion.svg){.icon}, and religiosity.
+* Then, asked participants to rate each explanation presented to them for their [epistemic utility](#c1), their perceptions of the relationship between ![](resources/science.svg){.icon} and ![](resources/religion.svg){.icon}, and religiosity.
 
 :::
 :::
@@ -406,6 +428,11 @@ Equifinality: sci and rel are seen as substitutable "all roads lead to Rome"
 ![](img/pillar3/exp.png){.image-right}
 
 :::
+:::
+
+::: {.notes}
+Which means that each condition only appeared once.
+
 :::
 
 <!-- Manuscript 3: Main Arguments #11 -->
@@ -416,7 +443,7 @@ Equifinality: sci and rel are seen as substitutable "all roads lead to Rome"
 ::: {.column width="40%"}
 
 ::: {.smaller}
-* No main effect of *n* of explanation and no interaction effect between *n* of explanation and type of explanation.
+* [*No* main effect]{.mark} of *n* of explanation and [*no* interaction effect]{.mark} between *n* of explanation and type of explanation (![](resources/science.svg){.icon} vs. ![](resources/religion.svg){.icon},).
 
 :::
 
@@ -435,8 +462,8 @@ Equifinality: sci and rel are seen as substitutable "all roads lead to Rome"
 ::: {.column width="40%"}
 
 ::: {.smaller}
-* No main effect of *n* of explanation and no interaction effect between *n* of explanation and type of explanation.
-* Conflict believers rated religious explanations as less useful than non-conflict believers (*d* = -0.71). No difference of how scientific explanations was rated between conflict and non-conflict believers (*d* = 0.001).
+* [*No* main effect]{.mark} of *n* of explanation and [*no* interaction effect]{.mark} between *n* of explanation and type of explanation.
+* Conflict believers rated [**religious explanations as less useful**]{.mark} than non-conflict believers (*d* = -0.71). No difference of how scientific explanations was rated between conflict and non-conflict believers (*d* = 0.001).
 
 :::
 
@@ -457,9 +484,9 @@ Equifinality: sci and rel are seen as substitutable "all roads lead to Rome"
 
 ::: {.smaller}
 
-* [*No* main effect]{mark} of *n* of explanation and [*no* interaction effect]{.mark} between *n* of explanation and type of explanation.
-* Conflict believers rated [religious explanations as less useful]{.mark} than non-conflict believers (*d* = -0.71). No difference of how scientific explanations was rated between conflict and non-conflict believers (*d* = 0.001).
-* Non-religious participants rated religious explanations lower than non-religious did (*d* = -1.02). No difference in how religious and non-religious participants rated scientific explanations (*d* = 0.09).
+* [*No* main effect]{.mark} of *n* of explanation and [*no* interaction effect]{.mark} between *n* of explanation and type of explanation.
+* Conflict believers rated [**religious explanations as less useful**]{.mark} than non-conflict believers (*d* = -0.71). *No* difference of how scientific explanations was rated between conflict and non-conflict believers (*d* = 0.001).
+* Non-religious rated [**religious explanations lower**]{.mark} than religious participants (*d* = -1.02). *No* difference in how religious and non-religious participants rated scientific explanations (*d* = 0.09).
 
 :::
 
@@ -485,10 +512,10 @@ Equifinality: sci and rel are seen as substitutable "all roads lead to Rome"
 
 ::: {.smaller}
 - Manuscript ![](resources/one.svg){.icon}: People's perceptions on the relationship between ![](resources/science.svg){.icon} and ![](resources/religion.svg){.icon} emerge through identifiable [cognitive]{.mark} and [motivational]{.mark} processes.
-- Manuscript ![](resources/two.svg){.icon}: These perceptions are mapped on to [different regions]{.mark} of a [unidimensional, bipolar]{.mark} construct, that is [culturally embedded]{.mark}.
-  - But [Context-Switch]{.mark} is closer to [compatibility]{.mark} than conflict.
+- Manuscript ![](resources/two.svg){.icon}: These perceptions are mapped on to **different regions** of a [unidimensional, bipolar]{.mark} construct, that is **culturally embedded**.
+  - But [Context-Switch]{.mark} is closer to compatibility than conflict.
   
-- Manuscript ![](resources/three.svg){.icon}: This general perception of the relationship between ![](resources/science.svg){.icon} and ![](resources/religion.svg){.icon} [only predicts]{.mark} how people evaluate the [utility]{.mark} of [religious explanations]{.mark}, but *not* scientific explanations.
+- Manuscript ![](resources/three.svg){.icon}: This general perception of the relationship between ![](resources/science.svg){.icon} and ![](resources/religion.svg){.icon} [***only*** predicts]{.mark} how people evaluate the utility of [religious explanations]{.mark}, but *not* scientific explanations.
 :::
 
 :::
@@ -498,8 +525,8 @@ Equifinality: sci and rel are seen as substitutable "all roads lead to Rome"
 ##### **Contributions** {.center .fragment}
 
 ::: {.smaller}
-- Offering a [systematic operationalization]{.mark} of Barbour's taxonomy [@barbourReligionScienceHistorical1998; @barbourTypologiesRelatingScience2002].
-- Providing an integrative, but [descriptive]{.mark}, psychological mechanism underlying the mental models and [early evidence]{.mark} for what they predict.
+- Offering a **systematic operationalization** of Barbour's taxonomy [@barbourReligionScienceHistorical1998; @barbourTypologiesRelatingScience2002].
+- Providing an **integrative, yet descriptive**, psychological mechanism underlying the mental models and **early evidence** for what they predict.
 
 :::
 
@@ -566,6 +593,7 @@ To end this presentation, let me emphasize several points from the presented ide
 :::{.smaller}
 * [Original flowchart](#a1)
 * [Revised Flowchart](#a2)
+* [Qualitative Studies of Barbour's Taxonomy](#a3)
 
 :::
 
@@ -578,7 +606,6 @@ To end this presentation, let me emphasize several points from the presented ide
 * [Correlation Table Study 2 USA](#b4)
 * [Model Fit Pilot + Study 1](#b5)
 * [Model Fit Study 2](#b6)
-* [Item Location Study 2](#b7)
 
 :::
 
@@ -589,8 +616,9 @@ To end this presentation, let me emphasize several points from the presented ide
 #### Manuscript 2
 
 :::{.smaller}
+* [Item Location Study 2](#b7)
 * [ESSD Study 2](#b8)
-* 
+* PCA Plot: [Pilot](#b9), [Study 1](#b10), [Study 2](#b11) 
 
 :::
 
@@ -617,6 +645,31 @@ To end this presentation, let me emphasize several points from the presented ide
 ## Revised Flowchart {#a2}
 
 ![](img/pillar1/flowchart_revised.png){fig-align="center"}
+
+## Qualitative Studies Barbour's Taxonomy {#a3}
+
+::: {.columns}
+::: {.column width="50%"}
+
+::: {.smaller}
+
+**Learning Sciences** ![](resources/arrow-right.svg){.icon} @baselStudentsArgumentsScience2014; @borgerdingEvolutionAcceptanceEpistemological2017; @dodickPhilosophicalApproachesReligious2010; @fyshReligiousBeliefsScience1998; @hokayemCollegeStudentsPerceptions2008; @mansourScienceTeachersViews2011; @mansourScienceTeachersViews2015; @pearceSciencePurelyTruth2021; @scheitleUSCollegeStudents2011; @shipmanChangesStudentViews2002; @stonesStudentsPerceptionsReligion2020; @taberSecondaryStudentsResponses2011; @taskinExploratoryExaminationIslamic2014; @yasriUnderstandingStudentApproaches2012; @yasriStudentPositionsRelationship2016; @alanaziAstronomyReligionDialogue2025; @fahrurrosiImplementationIntegrationIslam2025; @riwandaScienceReligionIntegration2025; @woolleyTeachersPerspectivesRelationship2023
+
+:::
+
+:::
+
+::: {.column width="50%"}
+
+::: {.smaller}
+
+**Sociology, Religious Studies** ![](resources/arrow-right.svg){.icon} @bakerPublicPerceptionsIncompatibility2012; @ecklundScientistsNegotiateBoundaries2011; @ecklundConflictReligionScience2009; @elsdon-bakerCreatingCreationistsInfluence2015; @hanleyInterrelationshipScienceReligion2014; @hillSurveybasedResearchScience2019; @kadenSociologicalStudyScience2025; @konnemannInsightsDiversityAttitudes2016; @longestItAllDepends2021; @scheitleEndorsementReligionScience2021; @vaidyanathanRejectingConflictNarrative2016
+
+:::
+
+:::
+
+:::
 
 ## Scale Items {#b1}
 
@@ -650,6 +703,18 @@ To end this presentation, let me emphasize several points from the presented ide
 ## ESSD Study 2 {#b8}
 
 ![](img/pillar2/dif_essd.png){fig-align="center"}
+
+## PCA Plot Pilot (DE) {#b9}
+
+![](img/pillar2/pca_pilot.png){fig-align="center"}
+
+## PCA Plot Study 1 (DE) {#b10}
+
+![](img/pillar2/pca_study1.png){fig-align="center"}
+
+## PCA Plot Study 2 DE {#b11}
+
+![](img/pillar2/pca_study2.png){fig-align="center"}
 
 ## Scale Perceived Utility {#c1}
 
