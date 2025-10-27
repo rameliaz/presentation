@@ -72,7 +72,7 @@ Wednesday, 12 November 2025
   * **Dialogue**: [distinct but incomplete]{.mark} without each other.
   * **Integration**: a [unified belief system]{.mark} with no categorical distinction.
 
-* **Assumptions**: The qualitative distinctions between *taxons* are **delicate** and they are **situation-dependent** characteristics [@barbourTypologiesRelatingScience2002].
+* **Assumptions**: The qualitative distinctions between *taxons* are **delicate**, not firm and they are **situation-dependent** characteristics [@barbourTypologiesRelatingScience2002].
 * Perceptions of the relationship between ![](resources/science.svg){.icon} and ![](resources/religion.svg){.icon} **is hereby defined as** a [mental schema]{.mark} for [processing potentially competing explanations]{.mark} and is expected to predict how people [interpret, evaluate, and respond]{.mark} to situations in which both scientific and religious explanations are salient. 
 * For brevity, I will refer to this construct as ['**mental models**']{.mark} later on. 
 
@@ -83,7 +83,7 @@ Wednesday, 12 November 2025
 ![](img/foto.jpg){.image-right}
 
 ::: {.notes}
-the question on whether science and religion are in conflict has been asked for centuries, but the idea how people subjectively perceive the relationship, regardless of whether or not substantive conflict exists, is a contemporary interest started only thirty years ago. According to Barbour, who is widely cited for this topic...
+According to Barbour, who is widely cited in the topic of science and religion relationship, people would perceive them as...
 
 Barbour didn't really specify any working definition beyond arguing that these mental models represent subjective perceptions, so we define that this construct as...
 
@@ -162,7 +162,7 @@ Pillar 3: Mechanistic Testing
 :::
 
 ::: {.notes}
-While Barbour's taxonomy I mentioned earlier is very influential across different scientific disciplines and helpful in guiding interested researchers in this topic, the taxonomy is purely descriptive and remain silent in at least three following aspects.
+Despite influential, Barbour's taxonomy is purely descriptive and remain silent in at least three following aspects.
 
 :::
 
@@ -212,11 +212,11 @@ While Barbour's taxonomy I mentioned earlier is very influential across differen
 :::
 
 ::: {.notes}
+People give different labels to the same model description. For example, "independence" is labelled as "compartment" or "NOMA".
+
 So here context-switchers, for example, would use science for school, religion for family gathering in Christmas.
 
 Explanatory coexistence refers to the simultaneous use of natural (scientific) and supernatural (religious) explanations for one phenomenon, with three different levels of integration: target-dependent/surface level, synthetic/moderate level, integrative thinking/deep level of integration.  
-
-People give different labels to the same model description. For example, "independence" is labelled as "compartment" or "NOMA".
 
 :::
 
@@ -228,7 +228,7 @@ People give different labels to the same model description. For example, "indepe
 
 ::: {.notes}
 
-Here is a simplified version of the flowchart presented in the article. As can be seen here, people can only adopt non-conflict beliefs when they are willing to be cognitively flexible and motivated to reconcile. By then, they would utilize explanatory coexistence, and depending on the level of integration they desire, they could adopt compartment, complementary or consonance views. Those whose cognitive and motivational elements do not satisfy these conditions would instead adopt a conflict belief. They may favor religion or science, but if they have no specific preference, they will adopt a context-switch view
+Here is a simplified version of the flowchart presented in the article. As can be seen here, people can only adopt non-conflict beliefs when they are willing to be cognitively flexible and motivated to reconcile. By then, they would utilize explanatory coexistence, and depending on the level of integration they desire, they could adopt compartment, complementary or consonance views. Those whose cognitive and motivational elements do not satisfy these conditions would instead adopt a conflict belief. They may favor religion or science, but if they have no specific preference, they will adopt a context-switch view.
 
 :::
 
@@ -264,6 +264,8 @@ We learned from the first pillar that Barbour's taxonomy does exist in reality a
 
 
 ::: {.notes}
+There have been some efforts...
+
 Barbour proposes taxonomy but he cautions people not to put people into boxes and that what these studies did. And it is somewhat counterintuitive to propose a taxonomy but then tell people not to use it for categorizing people.
 
 :::
@@ -285,7 +287,7 @@ So here is the visual illustration of our measurement assumptions. Here we have 
 ::: {.column width="50%"}
 
 ::: {.smaller}
-* There have been some efforts to operationalize Barbour's taxonomy [@johnsonScienceGodCosmos2019; @johnsonInteractionFaithScience2023; @marinHowPeoplePerceive2021; @woolleyTeachersPerspectivesRelationship2023; @yasriRelatingScienceReligion2013], but they did ***not*** satisfy Barbour's most important assumption: [**fuzzy boundaries**]{.mark} between the mental models.
+* There have been some efforts to operationalize Barbour's taxonomy [@johnsonScienceGodCosmos2019; @johnsonInteractionFaithScience2023; @marinHowPeoplePerceive2021; @woolleyTeachersPerspectivesRelationship2023; @yasriRelatingScienceReligion2013], but they did ***not*** satisfy Barbour's most important assumption: [**delicate boundaries**]{.mark} between the mental models.
 * One way to operationalize the taxonomy is to assume that mental models do not only differ in their [***kind***]{.mark} but also in their [***degree***]{.mark} of conflict ![](resources/arrow.svg){.icon} compatibility.
 
 :::
@@ -309,7 +311,8 @@ So here is the visual illustration of our measurement assumptions. Here we have 
 
 ::: {.notes}
 We went through those qualitative studies on Barbour's taxonomy to formulate the items. 
-...and the unfolding assumption here is important to capture response process since we were dealing with preference data and we need to differentiate people who like to position themselves in the middle of the continuum. And these very people usually disagree with the extremes in both direction. We tested this unfolding assumption by comparing unfolding model with the dominant Likert/linear model to see which one fitted better to the scale data.
+
+...and the unfolding assumption here is important for differences in both kind and degree assumptions, because we were dealing with preference data and we need to differentiate people who like to position themselves in the middle of the continuum. And these people usually disagree with the extremes in both direction. We tested this unfolding assumption by comparing unfolding model with the dominant Likert/linear model to see which one fitted better to the scale data.
 
 :::
 
@@ -352,11 +355,11 @@ But unlike initially suspected, context-switch here are closer to compatibility 
 ![](img/pillar3/man3.png){.center}
 
 ::: {.notes}
-We learned from the second part of the project that religious people tend to see compatibility between sci and rel. 
+We learned from the second part of the project that religious people tend to see compatibility between sci and rel, but why many previous studies demonstrated that religious individuals, even though they tend to see compatibility between science and religion, trust science less than non-religious people.
 
-But why many previous studies demonstrated that religious individuals, even though they tend to see compatibility between science and religion, trust science less than non-religious people.
+Again, Barbour's taxonomy doesn't say anything about what it predicts so we need a help from existing theories.
 
-Again, Barbour's taxonomy lacks specified mechanisms regarding what it predicts so we need a help from other existing, well-established theories.
+In this case, we have two theories offering different predictions.
 
 :::
 
@@ -373,7 +376,7 @@ Again, Barbour's taxonomy lacks specified mechanisms regarding what it predicts 
 
 ::: {.smaller}
 * ![](resources/science.svg){.icon} and ![](resources/religion.svg){.icon} are *means* to achieve epistemic *goals* (i.e., "to explain why things happen").
-* GST predicts that presenting scientific and religious explanations together (as **multiple means**) leads to **reduced perceived utility** of both compared to presenting them alone (i.e., the "dilution effect", @kruglanskiHowManyRoads2011; @belangerMoreLessEffect2015).
+* GST predicts that presenting scientific and religious explanations together (as **multiple means**) leads to [**reduced**]{.mark} **perceived utility** of [**both**]{.mark} compared to presenting them *alone* (i.e., the [**dilution effect**]{.mark}, @kruglanskiHowManyRoads2011; @belangerMoreLessEffect2015).
 * Religious people relied on ![](resources/science.svg){.icon} *and* ![](resources/religion.svg){.icon} moderately, but non-religious people relied on ![](resources/science.svg){.icon} highly [@jacksonReligiousPeopleView2024].
 * Therefore, [**the number of available (scientific and/or religious) explanations**]{.mark} determines how epistemically valuable people perceive these explanations to be.
 
@@ -387,10 +390,10 @@ Again, Barbour's taxonomy lacks specified mechanisms regarding what it predicts 
 #### Motivated Reasoning {.center .fragment}
 
 ::: {.smaller}
-* Prior beliefs play a more important role in determining how epistemically useful people perceive (scientific and/or religious) explanations to be.
-* People engage in biased reasoning, preferring explanations that are consistent with their prior beliefs [@kundaCaseMotivatedReasoning1990; @dittoMotivatedSkepticismUse1992].
-* [**Moderate reliance on**]{.mark} ![](resources/science.svg){.icon} *and* ![](resources/religion.svg){.icon} probably reflects underlying [non-conflict]{.mark} beliefs (i.e., compartment, context-switch, complementary, and consonance).
-* [**High reliance on either**]{.mark} ![](resources/science.svg){.icon} *or* ![](resources/religion.svg){.icon} possibly reflects an underlying [conflict]{.mark} belief.
+* [**Prior beliefs**]{.mark} play a more important role in determining how epistemically useful people perceive (scientific and/or religious) explanations to be.
+* People engage in [**biased reasoning**]{.mark}, preferring explanations that are [**consistent with**]{.mark} their prior beliefs [@kundaCaseMotivatedReasoning1990; @dittoMotivatedSkepticismUse1992].
+* [**Moderate reliance on both**]{.mark} ![](resources/science.svg){.icon} *and* ![](resources/religion.svg){.icon} probably reflects underlying [**non-conflict**]{.mark} beliefs (i.e., compartment, context-switch, complementary, and consonance).
+* [**High reliance on either**]{.mark} ![](resources/science.svg){.icon} *or* ![](resources/religion.svg){.icon} possibly reflects an underlying [**conflict**]{.mark} belief.
 
 :::
 
@@ -401,9 +404,7 @@ Again, Barbour's taxonomy lacks specified mechanisms regarding what it predicts 
 :::
 
 ::: {.notes}
-There are two theories offering different, but not necessarily mutually exclusive predictions.
-Here we'd like to examine if the general perception of the relationship between sci and rel can explain how people see the epistemic value of a very specific explanation.
-Dilution here implies that the means are equifinal. That means, sci and rel are seen as substitutable or to put simply, "all roads lead to Rome"
+The dilution effect here implies that sci and rel can be seen as substitutes so people would rely less on them or to put simply, "all roads lead to Rome"
 
 :::
 
@@ -419,8 +420,8 @@ Dilution here implies that the means are equifinal. That means, sci and rel are 
 ::: {.smaller}
 * A **within-subject** experiment (*N* = 719)
 * Participants were randomly presented with ![](resources/one.svg){.icon} (scientific *or* religious), ![](resources/two.svg){.icon} (always one scientific *and* one religious), and ![](resources/four.svg){.icon} (always two scientific *and* two religious) of three existential-related incidents [@poltHeideggerIntroduction1999; @sullivanComprehensiveUnderstandingExistential2012]: [**flood**]{.mark}, [**war**]{.mark}, and [**climate crisis**]{.mark}.
-* The order of both incidents and number of explanations was **counterbalanced** using a Latin square design.
-* Then, asked participants to rate each explanation presented to them for their [epistemic utility](#c1), their perceptions of the relationship between ![](resources/science.svg){.icon} and ![](resources/religion.svg){.icon}, and religiosity.
+* The order of both incidents and number of explanations was [**counterbalanced**]{.mark} so that each condition only appeared **once** (Latin square design).
+* Then, asked participants to rate [***each*** explanation]{.mark} presented to them for their [epistemic utility](#c1), and measured their perceptions of the relationship between ![](resources/science.svg){.icon} and ![](resources/religion.svg){.icon}, and religiosity.
 
 :::
 :::
@@ -431,7 +432,9 @@ Dilution here implies that the means are equifinal. That means, sci and rel are 
 :::
 
 ::: {.notes}
-Which means that each condition only appeared once.
+To test the explanatory power of the dilution effect and motivated reasoning hypotheses, we performed...
+
+...counterbalanced so that each condition only appeared once.
 
 :::
 
@@ -443,7 +446,7 @@ Which means that each condition only appeared once.
 ::: {.column width="40%"}
 
 ::: {.smaller}
-* [*No* main effect]{.mark} of *n* of explanation and [*no* interaction effect]{.mark} between *n* of explanation and type of explanation (![](resources/science.svg){.icon} vs. ![](resources/religion.svg){.icon},).
+* [*No* main effect]{.mark} of *n* of explanation and [*no* interaction effect]{.mark} between *n* of explanation and type of explanation, ![](resources/science.svg){.icon} vs. ![](resources/religion.svg){.icon}.
 
 :::
 
@@ -456,14 +459,19 @@ Which means that each condition only appeared once.
 
 :::
 
+::: {.notes}
+So we didn't find any support of the dilution effect hypothesis.
+
+:::
+
 ## Results
 
 ::: {.columns}
 ::: {.column width="40%"}
 
 ::: {.smaller}
-* [*No* main effect]{.mark} of *n* of explanation and [*no* interaction effect]{.mark} between *n* of explanation and type of explanation.
-* Conflict believers rated [**religious explanations as less useful**]{.mark} than non-conflict believers (*d* = -0.71). No difference of how scientific explanations was rated between conflict and non-conflict believers (*d* = 0.001).
+* [*No* main effect]{.mark} of *n* of explanation and [*no* interaction effect]{.mark} between *n* of explanation and type of explanation, ![](resources/science.svg){.icon} vs. ![](resources/religion.svg){.icon}.
+* Conflict believers rated [**religious explanations as less useful**]{.mark} than non-conflict believers (*d* = -0.71). [*No* differences]{.mark} of how [scientific explanations]{.mark} was rated between conflict and non-conflict believers (*d* = 0.001).
 
 :::
 
@@ -477,6 +485,11 @@ Which means that each condition only appeared once.
 
 :::
 
+::: {.notes}
+So we found an asymmetry here where conflict beliefs only exclusively affect how participants rated religious explanation. Scientific explanations were rated consistently regardless of whether participants believed in a conflict or not.
+
+:::
+
 ## Results
 
 ::: {.columns}
@@ -484,9 +497,9 @@ Which means that each condition only appeared once.
 
 ::: {.smaller}
 
-* [*No* main effect]{.mark} of *n* of explanation and [*no* interaction effect]{.mark} between *n* of explanation and type of explanation.
-* Conflict believers rated [**religious explanations as less useful**]{.mark} than non-conflict believers (*d* = -0.71). *No* difference of how scientific explanations was rated between conflict and non-conflict believers (*d* = 0.001).
-* Non-religious rated [**religious explanations lower**]{.mark} than religious participants (*d* = -1.02). *No* difference in how religious and non-religious participants rated scientific explanations (*d* = 0.09).
+* [*No* main effect]{.mark} of *n* of explanation and [*no* interaction effect]{.mark} between *n* of explanation and type of explanation, ![](resources/science.svg){.icon} vs. ![](resources/religion.svg){.icon}.
+* Conflict believers rated [**religious explanations as less useful**]{.mark} than non-conflict believers (*d* = -0.71). [*No* differences]{.mark} of how [scientific explanations]{.mark} was rated between conflict and non-conflict believers (*d* = 0.001).
+* Non-religious rated [**religious explanations lower**]{.mark} than religious participants (*d* = -1.02). [Scientific explanations]{.mark} were rated [similarly]{.mark}, so religiosity did not matter (*d* = 0.09).
 
 :::
 
@@ -542,6 +555,11 @@ Which means that each condition only appeared once.
 :::
 :::
 
+::: {.notes}
+Here are the takeaways that I learned along with three projects that we have done...
+
+:::
+
 <!-- Closing #13 -->
 
 ## Thank you! :sparkles:
@@ -549,7 +567,6 @@ Which means that each condition only appeared once.
 ::: {.columns}
 ::: {.column width="60%"}
 
-::: {.incremental}
 ::: {.callout-tip}
 ## Where to go from here?
 
@@ -558,7 +575,6 @@ Which means that each condition only appeared once.
 - Could the models play a role on people's [decision making]{.mark} on various aspects of their life? (e.g., public-health/sustainability-related decision making, etc.)
 - Could science communication strategy [be personalized]{.mark} based on one's preferred model? If so, would it be practically useful?
 
-:::
 :::
 
 :::
@@ -575,7 +591,9 @@ Which means that each condition only appeared once.
 :::
 
 ::: {.notes}
-To end this presentation, let me emphasize several points from the presented ideas.
+At last, some open questions still remain regarding how these mental models predict belief change and decision making, whether they are stable or situation-dependent, and whether personalizing science communication according to one's mental models would be practically useful. These are questions that future research can hopefully answer.
+
+Thank you so much for your attention! I would welcome any questions or concerns that you might have.
 :::
 
 ## References
@@ -651,9 +669,11 @@ To end this presentation, let me emphasize several points from the presented ide
 ::: {.columns}
 ::: {.column width="50%"}
 
+#### **Learning Sciences**
+
 ::: {.smaller}
 
-**Learning Sciences** ![](resources/arrow-right.svg){.icon} @baselStudentsArgumentsScience2014; @borgerdingEvolutionAcceptanceEpistemological2017; @dodickPhilosophicalApproachesReligious2010; @fyshReligiousBeliefsScience1998; @hokayemCollegeStudentsPerceptions2008; @mansourScienceTeachersViews2011; @mansourScienceTeachersViews2015; @pearceSciencePurelyTruth2021; @scheitleUSCollegeStudents2011; @shipmanChangesStudentViews2002; @stonesStudentsPerceptionsReligion2020; @taberSecondaryStudentsResponses2011; @taskinExploratoryExaminationIslamic2014; @yasriUnderstandingStudentApproaches2012; @yasriStudentPositionsRelationship2016; @alanaziAstronomyReligionDialogue2025; @fahrurrosiImplementationIntegrationIslam2025; @riwandaScienceReligionIntegration2025; @woolleyTeachersPerspectivesRelationship2023
+@baselStudentsArgumentsScience2014; @borgerdingEvolutionAcceptanceEpistemological2017; @dodickPhilosophicalApproachesReligious2010; @fyshReligiousBeliefsScience1998; @hokayemCollegeStudentsPerceptions2008; @mansourScienceTeachersViews2011; @mansourScienceTeachersViews2015; @pearceSciencePurelyTruth2021; @scheitleUSCollegeStudents2011; @shipmanChangesStudentViews2002; @stonesStudentsPerceptionsReligion2020; @taberSecondaryStudentsResponses2011; @taskinExploratoryExaminationIslamic2014; @yasriUnderstandingStudentApproaches2012; @yasriStudentPositionsRelationship2016; @alanaziAstronomyReligionDialogue2025; @fahrurrosiImplementationIntegrationIslam2025; @riwandaScienceReligionIntegration2025; @woolleyTeachersPerspectivesRelationship2023
 
 :::
 
@@ -661,9 +681,11 @@ To end this presentation, let me emphasize several points from the presented ide
 
 ::: {.column width="50%"}
 
+#### **Sociology, Religious Studies**
+
 ::: {.smaller}
 
-**Sociology, Religious Studies** ![](resources/arrow-right.svg){.icon} @bakerPublicPerceptionsIncompatibility2012; @ecklundScientistsNegotiateBoundaries2011; @ecklundConflictReligionScience2009; @elsdon-bakerCreatingCreationistsInfluence2015; @hanleyInterrelationshipScienceReligion2014; @hillSurveybasedResearchScience2019; @kadenSociologicalStudyScience2025; @konnemannInsightsDiversityAttitudes2016; @longestItAllDepends2021; @scheitleEndorsementReligionScience2021; @vaidyanathanRejectingConflictNarrative2016
+@bakerPublicPerceptionsIncompatibility2012; @ecklundScientistsNegotiateBoundaries2011; @ecklundConflictReligionScience2009; @elsdon-bakerCreatingCreationistsInfluence2015; @hanleyInterrelationshipScienceReligion2014; @hillSurveybasedResearchScience2019; @kadenSociologicalStudyScience2025; @konnemannInsightsDiversityAttitudes2016; @longestItAllDepends2021; @scheitleEndorsementReligionScience2021; @vaidyanathanRejectingConflictNarrative2016
 
 :::
 
