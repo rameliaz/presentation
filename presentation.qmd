@@ -184,9 +184,9 @@ Despite influential, Barbour's taxonomy is purely descriptive and remain silent 
 #### Is the taxonomy real? {.center .fragment}
 
 ::: {.smaller}
-* There is [handful of evidence]{.mark} from [qualitative studies](#a3) for Barbour's taxonomy, mostly in learning sciences, but they are by and large fragmented.
-* Mental models have different names but the most straightforward are suggested by @yasriRelatingScienceReligion2013, which are [**Conflict**]{.mark}, [**Compartment**]{.mark} (= *Independence*), [**Complementary**]{.mark} (= *Dialogue*) and [**Consonance**]{.mark} (= *Integration*).
-* [**Context-Switch**]{.mark} is a new variant [@shipmanChangesStudentViews2002; @taberSecondaryStudentsResponses2011; @yasriUnderstandingStudentApproaches2012], which represents a pragmatic strategy of an **underlying conflict belief** by flexibly switching between ![](resources/science.svg){.icon} and ![](resources/religion.svg){.icon} depending on the social situations, cues or demands.
+* There is [handful of evidence]{.mark} from [qualitative studies](#a3) for Barbour's taxonomy, mostly in learning sciences, but they are, by and large, fragmented.
+* Mental models have different names, but the most straightforward are suggested by @yasriRelatingScienceReligion2013, which are [**Conflict**]{.mark}, [**Compartment**]{.mark} (= *Independence*), [**Complementary**]{.mark} (= *Dialogue*) and [**Consonance**]{.mark} (= *Integration*).
+* [**Context-Switch**]{.mark} is the newest addition [@shipmanChangesStudentViews2002; @taberSecondaryStudentsResponses2011; @yasriUnderstandingStudentApproaches2012], which represents a pragmatic strategy of an **underlying conflict belief** by [**flexibly switching**]{.mark} between ![](resources/science.svg){.icon} and ![](resources/religion.svg){.icon} depending on the social situations, cues or demands.
 
 :::
 
@@ -419,8 +419,8 @@ The dilution effect here implies that sci and rel can be seen as substitutes so 
 
 ::: {.smaller}
 * A **within-subject** experiment (*N* = 719)
-* Participants were randomly presented with ![](resources/one.svg){.icon} (scientific *or* religious), ![](resources/two.svg){.icon} (always one scientific *and* one religious), and ![](resources/four.svg){.icon} (always two scientific *and* two religious) of three existential-related incidents [@poltHeideggerIntroduction1999; @sullivanComprehensiveUnderstandingExistential2012]: [**flood**]{.mark}, [**war**]{.mark}, and [**climate crisis**]{.mark}.
-* The order of both incidents and number of explanations was [**counterbalanced**]{.mark} so that each condition only appeared **once** (Latin square design).
+* Participants were randomly presented with [**one**]{.mark} (scientific *or* religious), [**two**]{.mark} (always one scientific *and* one religious), and [**four**]{.mark} (always two scientific *and* two religious) of three existential-related incidents [@poltHeideggerIntroduction1999; @sullivanComprehensiveUnderstandingExistential2012]: [**flood**]{.mark}, [**war**]{.mark}, and [**climate crisis**]{.mark}.
+* The order of both *incidents* and *number of explanations* was [**counterbalanced**]{.mark} so that each condition only appeared **once** (Latin square design).
 * Then, asked participants to rate [***each*** explanation]{.mark} presented to them for their [epistemic utility](#c1), and measured their perceptions of the relationship between ![](resources/science.svg){.icon} and ![](resources/religion.svg){.icon}, and religiosity.
 
 :::
