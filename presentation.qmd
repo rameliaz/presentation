@@ -103,7 +103,7 @@ Barbour didn't really specify any working definition beyond arguing that these m
 ![](resources/pillar1.svg)
 :::
 ::: {.timeline-content}
-**Does Barbour's taxonomy exist in reality? If so, why do people differ in their mental models?**
+**Does Barbour's taxonomy exist in reality? If so, why do people differ in their mental models?** 
 
 ::: {.timeline-details .fragment .fade-out fragment-index=2}
 The goal is to illustrate the [underlying psychological mechanisms]{.mark} responsible for the formation of the mental models.
@@ -228,7 +228,7 @@ Explanatory coexistence refers to the simultaneous use of natural (scientific) a
 
 ::: {.notes}
 
-Here is a simplified version of the flowchart presented in the article. As can be seen here, people can only adopt non-conflict beliefs when they are willing to be cognitively flexible and motivated to reconcile. By then, they would utilize explanatory coexistence, and depending on the level of integration they desire, they could adopt compartment, complementary or consonance views. Those whose cognitive and motivational elements do not satisfy these conditions would instead adopt a conflict belief. They may favor religion or science, but if they have no specific preference, they will adopt a context-switch view.
+We illustrate how cognitive and motivational elements determine how people adopt these mental models in a simplified version of the flowchart we presented in the article. As we can see here, people can only adopt non-conflict beliefs when they are willing to be cognitively flexible and motivated to reconcile science and religion. By then, they would utilize explanatory coexistence, and depending on the level of integration they desire, they could adopt compartment which is at the surface, complementary which in the middle level or consonance views which is in the deepest level of integration. Those whose cognitive and motivational elements do not satisfy these conditions would instead adopt a conflict belief by favoring either religion or science. However, if they have no specific preference, they would adopt a context-switch view.
 
 :::
 
