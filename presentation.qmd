@@ -38,8 +38,6 @@ Theory, Measurement, and Early Evidence for the Psychological Mechanism
 
 ##### Dissertation Defense
 
-<div style="height: 0.5em;"></div>
-
 ::: {.dateplace}
 Wednesday, 12 November 2025
 :::
@@ -83,7 +81,7 @@ Wednesday, 12 November 2025
 ::: {.notes}
 According to Barbour, who is widely cited in the topic of science and religion relationship, people would perceive them as...
 
-Barbour didn't really specify any working definition beyond arguing that these mental models represent subjective perceptions, so we define that this construct as...
+Barbour doesnt really specify any working definition beyond arguing that these mental models represent subjective perceptions, so we define that this construct as...
 
 :::
 
@@ -287,6 +285,8 @@ The first assumption, differences in kind, can be better explained with an examp
 
 ## 
 
+<div style="height: 2.5em;"></div>
+
 ![](img/pillar2/continuum2.png){fig-align="center"}
 
 ::: {.notes}
@@ -352,8 +352,8 @@ We went through those qualitative studies on Barbour's taxonomy to formulate the
 * ![](resources/usa.svg){.icon} participants perceived [more conflict]{.mark} than ![](resources/de.svg){.icon} at same trait level by ~0.4SD.
 * The construct was [conceptually distinct]{.mark} from Belief in Science (Farias et al., 2013) ($\rho^2$ = .46 ![](resources/de.svg){.icon}, .25 ![](resources/usa.svg){.icon}) and [similar to]{.mark} Leicht et al.'s (2021) scale ($\rho^2$ = .57 ![](resources/de.svg){.icon} .54 ![](resources/usa.svg){.icon}), but sufficient unshared variance still left.
 * Strong-to-moderate correlations between religiosity, religious identity, and religious upbringing with [higher compatibility]{.mark} perceptions in ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon} samples.
-* Small-to-moderate correlations between atheist identity and science identity (only ![](resources/de.svg){.icon}) with conflict perception. 
-* Close to zero correlation between agnostic identity with conflict/compatibility perceptions.
+* Small-to-moderate correlations between atheist identity (both in ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon}) and science identity (only ![](resources/de.svg){.icon}) with [conflict perception]{.mark}. 
+* Close to zero correlation between agnostic identity with conflict/compatibility perceptions, both in ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon} samples.
 
 :::
 :::
@@ -428,7 +428,7 @@ In this case, we have two theories offering different predictions.
 :::
 
 ::: {.notes}
-The dilution effect here implies that sci and rel can be seen as substitutes so people would rely less on them or to put simply, "all roads lead to Rome". Aligning to this predictio, previous research found that....
+The dilution effect here implies that sci and rel can be seen as substitutes so people would rely less on them or to put simply, "all roads lead to Rome". Aligning to this prediction, previous research found that....
 
 :::
 
