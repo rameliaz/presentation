@@ -244,24 +244,27 @@ span.term {
 .img-DAAD {
   height: 160px;
   position: absolute;
-  top: 3em;
-  right: -1em;
+  top: 6em;  /* same top for all */
+  left: 15%;
+  transform: translateX(-50%);
   z-index: 1;
 }
 
 .img-JTF {
   height: 160px;
   position: absolute;
-  top: 7em;
-  right: -1em;
+  top: 6em;  /* same top for all */
+  left: 50%;
+  transform: translateX(-50%);
   z-index: 1;
 }
 
 .img-OSR {
   height: 160px;
   position: absolute;
-  top: 12em;
-  right: -1em;
+  top: 6em;  /* same top for all */
+  left: 85%;
+  transform: translateX(-50%);
   z-index: 1;
 }
 
