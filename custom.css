@@ -133,7 +133,7 @@ img.icon {
 
 .subtitle {
   font-weight: bold;
-  font-size: 40px;
+  font-size: 50px;
   margin-top: -0.3em !important;
   margin-left: 0.3em !important;
 }
@@ -276,9 +276,6 @@ span.term {
   font-size: 0.7em;
 }
 
-.highlight-last  {
-  color: grey;
-  .current-fragment {
-    color: #2B864C;
-  }
+.much-smaller {
+  font-size: 0.6em;
 }

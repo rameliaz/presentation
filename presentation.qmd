@@ -42,9 +42,14 @@ Theory, Measurement, and Early Evidence for the Psychological Mechanism
 Wednesday, 12 November 2025
 :::
 
-### Rizqy Amelia Zein
-#### Supervisor: Prof. Dr. Mario Gollwitzer
-##### Chair of Social Psychology, LMU Munich
+**Rizqy Amelia Zein**
+
+::: {.dateplace}
+Supervisor: Prof. Dr. Mario Gollwitzer
+
+Chair of Social Psychology, LMU Munich
+:::
+
 :::
 :::
 
@@ -62,15 +67,15 @@ Wednesday, 12 November 2025
 ::: {.column width="70%"}
 ::: {.smaller}
 
-* Barbour's Taxonomy [@barbourIssuesScienceReligion1966; @barbourReligionScienceHistorical1998; @barbourWhenScienceMeets2000; @barbourTypologiesRelatingScience2002] proposes that people can perceive science (S) and religion (R) as:
+* Barbour [(1966, 1998, 2000, 2002)]{.much-smaller} proposes that people can perceive science (S) and religion (R) as:
   * Conflict: [inherently incompatible]{.mark}, then cannot mentally coexist.
-  * Independence: [separate domains]{.mark} or non-overlapping *magisteria* [@gouldNonOverlappingMagisteria1999]
+  * Independence: [separate domains]{.mark} or non-overlapping *magisteria* [(Gould, 1999)]{.much-smaller}.
   * Dialogue: [distinct but incomplete]{.mark} without each other.
   * Integration: a [unified belief system]{.mark} with no categorical distinction.
 
-* [Assumptions]{.mark}: one cannot fit people neatly into one *taxon* and they are situation-dependent characteristics [@barbourTypologiesRelatingScience2002].
-* Perceptions of the relationship between S and R is hereby defined as a [mental schema]{.mark} for [processing potentially competing explanations]{.mark} and is expected to predict how people [interpret, evaluate, and respond]{.mark} to situations in which both scientific and religious explanations are salient. 
-* For brevity, I will refer to this construct as ['mental models']{.mark} later on. 
+* [Assumptions]{.mark}: one cannot fit people neatly into one *taxon* and they are situation-dependent characteristics [(Barbour, 2002)]{.much-smaller}.
+* Perceptions of the relationship between S and R is defined as a [mental schema]{.mark} for [processing potentially competing S and R explanations]{.mark}, especially in situations in which both scientific and religious explanations are salient. 
+* I will refer to this construct as ['mental models']{.mark} later on. 
 
 :::
 :::
@@ -182,7 +187,7 @@ Despite influential, Barbour's taxonomy is purely descriptive and remain silent 
 
 ::: {.smaller}
 * There is [handful of evidence]{.mark} from qualitative studies.
-* Mental models have different names, but the most straightforward are suggested by Yasri et al (2013), which are [Conflict]{.mark}, [Compartment]{.mark} (= *Independence*), [Complementary]{.mark} (= *Dialogue*) and [Consonance]{.mark} (= *Integration*).
+* Mental models have different names, but the most straightforward are suggested by Yasri et al [(2013)]{.much-smaller}, which are [Conflict]{.mark}, [Compartment]{.mark} (= *Independence*), [Complementary]{.mark} (= *Dialogue*) and [Consonance]{.mark} (= *Integration*).
 * [Context-Switch]{.mark} is an addition, which represents a pragmatic strategy of an underlying conflict belief by [flexibly switching]{.mark} between S and R depending on the social situations.
 
 :::
@@ -197,7 +202,7 @@ Despite influential, Barbour's taxonomy is purely descriptive and remain silent 
 * [Motivational elements]{.mark}: social identity, political ideology, moral belief, epistemic needs and motives.
 * Differences in cognitive and motivational aspects here pave the way for [explanatory coexistence]{.mark}.
 
-* Explanatory coexistence can occur because S and R have [differential utility]{.mark} [@davoodiExplainingExistentialScientific2022] and thus are processed differently [@vanleeuwenReligiousCredenceNot2014].
+* Explanatory coexistence can occur because S and R have [differential utility]{.mark} [(Davoodi & Lombrozo, 2022)]{.much-smaller} and thus are [processed differently]{.mark} [(Van Leeuwen, 2014)]{.much-smaller}.
 
 :::
 :::
@@ -222,7 +227,7 @@ Explanatory coexistence is a culturally universal phenomenon, which refers to th
 
 ::: {.notes}
 
-We illustrate how cognitive and motivational elements determine how people adopt these mental models in a simplified version of the flowchart we presented in the article. As we can see here, people can only adopt non-conflict beliefs when they are willing to be cognitively flexible and motivated to reconcile science and religion. By then, they would utilize explanatory coexistence, and depending on the level of integration they desire, they could adopt compartment, complementary or consonance. Those whose cognitive and motivational elements do not satisfy these conditions would instead adopt a conflict belief by favoring either religion or science. However, if they have no specific preference, they would adopt a context-switch view.
+We illustrate how cognitive and motivational elements determine how people adopt these mental models in a simplified version of the flowchart we presented in the article.
 
 :::
 
@@ -257,7 +262,7 @@ We learned from the first pillar that Barbour's taxonomy does exist in reality a
 ::: {.column width="50%"}
 
 ::: {.smaller}
-* There have been some efforts to operationalize Barbour's taxonomy, but these studies violated Barbour's most important assumption by [assigning participants]{.mark} to one of the mental models.
+* There have been some efforts to operationalize Barbour's taxonomy, but these studies violated Barbour's most important assumption by [assigning participants to one]{.mark} of the mental models.
 * One way to operationalize the taxonomy is to assume that mental models do not only differ in their [kind]{.mark} but also in their [degree]{.mark} of conflict ![](resources/arrow.svg){.icon} compatibility.
 
 :::
@@ -300,26 +305,24 @@ In addition to that, mental models can also imply certain degree of conflict-com
 ::: {.column width="50%"}
 
 ::: {.smaller}
-* There have been some efforts to operationalize Barbour's taxonomy, but they did *not* satisfy Barbour's most important assumption: [loose boundaries]{.mark} between the mental models.
+* There have been some efforts to operationalize Barbour's taxonomy, but these studies violated Barbour's most important assumption by [assigning participants to one]{.mark} of the mental models.
 * One way to operationalize the taxonomy is to assume that mental models do not only differ in their [kind]{.mark} but also in their [degree]{.mark} of conflict ![](resources/arrow.svg){.icon} compatibility.
-
-:::
-:::
-
-::: {.incremental}
-::: {.column width="50%"}
-::: {.smaller}
 * We developed [a novel measure]{.mark} that mirrors theoretical and empirical descriptions of each mental model.
+
+:::
+:::
+
+::: {.column width="50%"}
+::: {.incremental}
+::: {.smaller}
 * We performed one pilot and two studies across three ![](resources/de.svg){.icon} (*N* = 2,920) and one ![](resources/usa.svg){.icon} sample (*N* = 1,197).
-* Since mental models are [culturally embedded]{.mark} [@johnsonIntersectionScienceReligion2020; @riosSciencereligionCompatibilityBeliefs2019; @riosMesearchNecessarilyLess2020], the scale might contain systematic cultural bias, so we performed DIF analysis.
+* Since mental models are [culturally embedded]{.mark} [(Johnson, et al., 2020; Rios & Aveyard, 2019; Rios & Roth, 2020)]{.much-smaller}, the scale might contain a systematic cultural bias, so we performed a differential item functioning (DIF) analysis.
 * Discriminant, convergent, and criterion-related validity were also tested.
 
 :::
 :::
-
 :::
 :::
-
 
 ::: {.notes}
 We went through those qualitative studies on Barbour's taxonomy to formulate the items. 
@@ -350,9 +353,9 @@ We went through those qualitative studies on Barbour's taxonomy to formulate the
 
 ::: {.incremental}
 * ![](resources/usa.svg){.icon} participants perceived [more conflict]{.mark} than ![](resources/de.svg){.icon} at same trait level by ~0.4SD.
-* The construct was [conceptually distinct]{.mark} from Belief in Science (Farias et al., 2013) ($\rho^2$ = .46 ![](resources/de.svg){.icon}, .25 ![](resources/usa.svg){.icon}) and [similar to]{.mark} Leicht et al.'s (2021) scale ($\rho^2$ = .57 ![](resources/de.svg){.icon} .54 ![](resources/usa.svg){.icon}), but sufficient unshared variance still left.
+* The construct was [conceptually distinct]{.mark} from Belief in Science [(Farias et al., 2013)]{.much-smaller} ($\rho^2$ = .46 ![](resources/de.svg){.icon}, .25 ![](resources/usa.svg){.icon}) and [similar to]{.mark} Leicht et al.'s [(2021)]{.much-smaller} scale ($\rho^2$ = .57 ![](resources/de.svg){.icon} .54 ![](resources/usa.svg){.icon}), but sufficient unshared variance still left.
 * Strong-to-moderate correlations between religiosity, religious identity, and religious upbringing with [higher compatibility]{.mark} perceptions in ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon} samples.
-* Small-to-moderate correlations between atheist identity (both in ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon}) and science identity (only ![](resources/de.svg){.icon}) with [conflict perception]{.mark}. 
+* Small-to-moderate correlations between atheist identity (both in ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon}) and science identity (only ![](resources/de.svg){.icon}) with [higher conflict]{.mark} perception. 
 * Close to zero correlation between agnostic identity with conflict/compatibility perceptions, both in ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon} samples.
 
 :::
@@ -402,8 +405,8 @@ In this case, we have two theories offering different predictions.
 
 ::: {.smaller}
 * S and R are *means* to achieve epistemic *goals* (i.e., "to explain why things happen").
-* GST predicts that presenting scientific and religious explanations together (as multiple means) leads to [reduced]{.mark} perceived utility of [both]{.mark} compared to presenting them alone, or the [dilution effect]{.mark}, [@kruglanskiHowManyRoads2011; @jacksonReligiousPeopleView2024].
-* Therefore, [the number of available explanations]{.mark} determines how epistemically valuable people perceive these explanations to be.
+* Presenting scientific and religious explanations together (as multiple means) leads to [reduced]{.mark} perceived utility of [both]{.mark} compared to presenting them alone, or the [dilution effect]{.mark} [(Jackson et al., 2024; Kruglanski et al., 2011)]{.much-smaller}.
+* GST predicts that: [the number of available explanations]{.mark} determines how epistemically valuable people perceive these explanations to be.
 
 :::
 
@@ -415,9 +418,10 @@ In this case, we have two theories offering different predictions.
 #### Motivated Reasoning {.center .fragment}
 
 ::: {.smaller}
-* People engage in [biased reasoning]{.mark}, preferring explanations that are consistent with their [prior beliefs]{.mark} [@kundaCaseMotivatedReasoning1990].
-* [Moderate reliance on both]{.mark} S *and* R probably reflects underlying [non-conflict]{.mark} beliefs (i.e., compartment, context-switch, complementary, and consonance).
-* [High reliance on either]{.mark} S *or* R possibly reflects an underlying [conflict]{.mark} belief.
+* People engage in [biased reasoning]{.mark}, preferring explanations that are consistent with their [prior beliefs]{.mark} [(Kunda, 1990)]{.much-smaller}.
+* Motivated reasoning predicts that:
+  * [Moderate reliance on both]{.mark} S *and* R reflects underlying [non-conflict]{.mark} beliefs (i.e., compartment, context-switch, complementary, and consonance).
+  * [High reliance on either]{.mark} S *or* R reflects an underlying [conflict]{.mark} belief.
 
 :::
 
@@ -444,7 +448,7 @@ The dilution effect here implies that sci and rel can be seen as substitutes so 
 ::: {.smaller}
 * A within-subject experiment (*N* = 719)
 * Participants were randomly presented with [one]{.mark} (scientific *or* religious), [two]{.mark} (always one scientific *and* one religious), and [four]{.mark} (always two scientific *and* two religious) of three existential-related incidents: [flood]{.mark}, [war]{.mark}, and [climate crisis]{.mark}.
-* The order of both *incidents* and *number of explanations* was [counterbalanced]{.mark} so that each condition only appeared once.
+* The order of both *incidents* and *number of explanations* was [counterbalanced]{.mark}; each condition only appeared once.
 * Then, asked participants to rate [each explanation]{.mark} presented to them for their epistemic utility, and measured their perceptions of the relationship between S and R, and religiosity.
 
 :::
@@ -467,10 +471,10 @@ To test the explanatory power of the dilution effect and motivated reasoning hyp
 
 ::: incremental
 ::: {.smaller}
-* [*No* main effect]{.mark} of *n* of explanation and [*no* interaction effect]{.mark} between *n* of explanation and type of explanation (S vs. R).
-* Conflict believers rated religious explanations as less useful than non-conflict believers (*d* = -0.71). 
+* [*No* main effect]{.mark} of *n* of explanation (1 vs. 2 vs. 4) and [*no* interaction effect]{.mark} between *n* of explanation and type of explanation (S vs. R).
+* [Conflict believers]{.mark} rated [religious explanations as less useful]{.mark} than non-conflict believers (*d* = -0.71). 
 * [Scientific explanations]{.mark} were rated [consistently]{.mark} regardless of whether participants believed in a conflict or non-conflict (*d* = 0.001).
-* Non-religious rated religious explanations lower than religious participants (*d* = -1.02). 
+* [Non-religious]{.mark} rated [religious explanations as less useful]{.mark} than religious participants (*d* = -1.02). 
 * [Scientific explanations]{.mark} were rated [similarly]{.mark} regardless of participants' religiosity (*d* = 0.09).
 
 :::
@@ -503,9 +507,9 @@ So we didn't find any support of the dilution effect hypothesis.
 ::: {.smaller}
 - People's perceptions on the relationship between S and R emerge through identifiable [cognitive]{.mark} and [motivational]{.mark} processes.
 - These perceptions are mapped on to different regions of a [unidimensional, bipolar]{.mark} construct, that is culturally embedded.
-  - But [Context-Switch]{.mark} is closer to compatibility than conflict.
+  - [Context-Switch]{.mark} is closer to compatibility than conflict, different from what was initially suspected.
   
-- This general perception of the relationship between S and R [only predicts]{.mark} how people evaluate the utility of [religious explanations]{.mark}, but *not* scientific explanations.
+- This general perception of the relationship between S and R [only predicts]{.mark} how people evaluate the utility of [religious explanations]{.mark}, and *not* scientific explanations.
 :::
 
 :::
@@ -524,7 +528,7 @@ So we didn't find any support of the dilution effect hypothesis.
 
 ::: {.smaller}
 - *No* examination of boundary conditions, but it may be possible with computational modelling. 
-- Only focused on the general perceptions -- did *not* tap into domain/issue/topic-specific perceptions [@leichtContentMattersPerceptions2021].
+- Only focused on the general perceptions -- did *not* tap into domain/issue/topic-specific perceptions.
 
 :::
 
@@ -553,6 +557,13 @@ Here are the takeaways that I learned along with three projects that we have don
 Thank you so much for your attention! I would welcome any questions or concerns that you might have.
 
 :::
+
+## Reference {visibility="hidden"}
+[@barbourIssuesScienceReligion1966; @barbourReligionScienceHistorical1998; @barbourWhenScienceMeets2000; @barbourTypologiesRelatingScience2002]
+[@gouldNonOverlappingMagisteria1999] [@vanleeuwenReligiousCredenceNot2014; @davoodiExplainingExistentialScientific2022]
+[@johnsonIntersectionScienceReligion2020; @riosSciencereligionCompatibilityBeliefs2019; @riosMesearchNecessarilyLess2020]
+[@fariasScientificFaithBelief2013; @leichtContentMattersPerceptions2021]
+[@kruglanskiHowManyRoads2011; @jacksonReligiousPeopleView2024] [@kundaCaseMotivatedReasoning1990]
 
 ## References
 
@@ -698,7 +709,7 @@ Thank you so much for your attention! I would welcome any questions or concerns 
 
 ![](img/pillar2/pca_study1.png){fig-align="center"}
 
-## PCA Plot Study 2 DE {#b11}
+## PCA Plot Study 2 {#b11}
 
 ![](img/pillar2/pca_study2.png){fig-align="center"}
 
