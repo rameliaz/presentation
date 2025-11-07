@@ -51,6 +51,12 @@ Wednesday, 12 November 2025
 ![](img/LMU_Muenchen_Logo.png){.sticker-float-right}
 :::
 
+::: {.notes}
+Say thanks
+Introduce the structure
+
+:::
+
 <!-- Above is title slide -->
 
 <!-- Theoretical Background #1 -->
@@ -67,8 +73,8 @@ Wednesday, 12 November 2025
   * Dialogue: [distinct but incomplete]{.mark} without each other.
   * Integration: a [unified belief system]{.mark} with no categorical distinction.
 
-* [Assumptions]{.mark}: one cannot fit people neatly into one *taxon* and these are situation-dependent characteristics [(Barbour, 2002)]{.much-smaller}.
-* Perceptions of the relationship between S and R are defined as a [mental schema]{.mark} for [processing potentially competing S and R explanations]{.mark}, especially in situations in which both scientific and religious explanations are salient. 
+* Assumptions: (1) one [cannot fit]{.mark} people neatly [into one]{.mark} category and (2) the taxonomy is [situation-dependent]{.mark} [(Barbour, 2002)]{.much-smaller}.
+* Perceptions of the relationship between S and R are [mental schemas]{.mark} for [processing potentially competing S and R explanations]{.mark}, especially in situations in which both S and R are salient. 
 * I will refer to this construct as ['mental models']{.mark}. 
 
 :::
@@ -78,9 +84,9 @@ Wednesday, 12 November 2025
 ![](img/foto.jpg){.image-right}
 
 ::: {.notes}
-According to Barbour, who is widely cited in the topic of science and religion relationship, people would perceive them as...
+Ian Barbour proposes that people can construe the...
 
-Barbour doesnt really specify any working definition beyond arguing that these mental models represent subjective perceptions, so we define that this construct as...
+Barbour doesn't put forward any definitions, so we define this construct as...
 
 :::
 
@@ -130,7 +136,6 @@ Pillar 2: Measure
 :::
 :::
 
-
 <!-- Third Pillar -->
 
 ::: {.timeline-block .fragment .fade-up fragment-index=3}
@@ -151,13 +156,11 @@ Pillar 3: Mechanistic Testing
 :::
 
 
-
-
 :::
 :::
 
 ::: {.notes}
-Despite influential, Barbour's taxonomy is purely descriptive and remain silent in at least three following aspects.
+Despite widely cited, Barbour's taxonomy remain silent in at least three following aspects which I addressed as a focus in my dissertation.
 
 :::
 
@@ -166,10 +169,12 @@ Despite influential, Barbour's taxonomy is purely descriptive and remain silent 
 ## Manuscript 1: Theory
 #### Does Barbour's taxonomy exist in reality? If so, why do people differ in their mental models?
 
+<div style="height: 0.75em;"></div>
+
 ![](img/pillar1/man1.png){.center}
 
 ::: {.notes}
-This is a conceptual paper, exploring the first question.
+The first manuscript deals with Barbour's taxonomy at the conceptual level, so we explored whether the taxonomy exists in reality...
 
 :::
 
@@ -199,9 +204,9 @@ This is a conceptual paper, exploring the first question.
 ::: {.smaller}
 * [Cognitive elements]{.mark}: cognitive flexibility, epistemic belief.
 * [Motivational elements]{.mark}: social identity, political ideology, moral belief, epistemic needs and motives.
-* Differences in cognitive and motivational aspects here pave the way for [explanatory coexistence]{.mark}.
-
-* Explanatory coexistence can occur because S and R have [differential utility]{.mark} [(Davoodi & Lombrozo, 2022)]{.much-smaller} and thus are [processed differently]{.mark} [(Van Leeuwen, 2014)]{.much-smaller}.
+* Differences in cognitive and motivational elements pave the way for [explanatory coexistence]{.mark} [(Legare et al., 2012; Legare & Visala, 2011)]{.much-smaller}.
+* Explanatory coexistence occurs because people use S and R for [different purposes]{.mark} [(Davoodi & Lombrozo, 2022)]{.much-smaller}.
+* Therefore, S and R are [processed differently]{.mark} [(Van Leeuwen, 2014)]{.much-smaller}.
 
 :::
 :::
@@ -210,11 +215,11 @@ This is a conceptual paper, exploring the first question.
 :::
 
 ::: {.notes}
-People give different labels to the same mental model. For example, "independence" is labelled as "compartment" or "NOMA".
+In the article we provided two main insights:
 
-So here context-switchers, for example, would use science for school, religion for family gathering in Christmas.
+Context-switchers would use science for school, religion for family gathering at Christmas.
 
-Explanatory coexistence is a culturally universal phenomenon, which refers to the simultaneous use of natural (scientific) and supernatural (religious) explanations for why something happens. 
+Explanatory coexistence is a culturally universal phenomenon, which refers to the simultaneous use of natural (scientific) and supernatural (religious) explanations for the same phenomenon. 
 
 :::
 
@@ -225,8 +230,9 @@ Explanatory coexistence is a culturally universal phenomenon, which refers to th
 ![](img/pillar1/flowchart_simplified.png){style="display: block; margin: 0 auto;"}
 
 ::: {.notes}
+We illustrate how cognitive and motivational elements determine how people adopt these mental models in a flowchart, but this is the simplified version.
 
-We illustrate how cognitive and motivational elements determine how people adopt these mental models in a simplified version of the flowchart we presented in the article.
+Two decision diamonds here represent cognitive flexibility and motivational forces required for the activation of explanatory coexistence. If these condition aren't met, people adopt conflict.
 
 :::
 
@@ -239,21 +245,28 @@ We illustrate how cognitive and motivational elements determine how people adopt
 
 :::
 
+::: {.notes}
+To sum up, the first manuscript concludes that...
+
+:::
+
 <!-- Manuscript 2: Title #7 -->
 
 ## Manuscript 2: Measurement
 #### How can one systematically operationalize Barbour's taxonomy for empirical research?
 
+<div style="height: 0.75em;"></div>
+
 ![](img/pillar2/man2.png){.center}
 
 ::: {.notes}
-We learned from the first pillar that Barbour's taxonomy does exist in reality and comes with five, not four, types. Then the next question would be, how can one systematically investigate them for empirical research? and this is the focus of the second manuscript.
+In the second manuscript, we shift the focus from conceptual to operational level. Therefore, this manuscript questions...
 
 :::
 
 <!-- Manuscript 2: Rationale + Theoretical Background #8 -->
 
-## Rationale 
+## Rationale & Theory
 
 ::: {.incremental}
 ::: {.columns}
@@ -261,7 +274,8 @@ We learned from the first pillar that Barbour's taxonomy does exist in reality a
 ::: {.column width="50%"}
 
 ::: {.smaller}
-* There have been some efforts to operationalize Barbour's taxonomy, but violating Barbour's assumption by [assigning participants to one]{.mark} of the mental models.
+* There have been efforts to operationalize Barbour's taxonomy by [assigning participants to one]{.mark} of the mental models.
+* ...but this [violates]{.mark} Barbour's assumption.
 * One way to operationalize the taxonomy is to assume that mental models do not only differ in their [kind]{.mark} but also in their [degree]{.mark} of conflict ![](resources/arrow.svg){.icon} compatibility.
 
 :::
@@ -272,13 +286,19 @@ We learned from the first pillar that Barbour's taxonomy does exist in reality a
 
 
 ::: {.notes}
-Barbour proposes taxonomy but he cautions people not to put people into boxes and that what these studies did. And it is somewhat counterintuitive to propose a taxonomy but then tell people not to use it for categorizing people.
+Barbour proposes taxonomy but he cautions not to use it for categorizing people...
+To understand these two assumptions better, I will use an example.
 
 :::
 
 ## 
 
 ![](img/pillar2/continuum1a.png){fig-align="center"}
+
+::: {.notes}
+Suppose that someone named John died of a stroke. To explain this death, people with conflict belief would say something like...
+
+:::
 
 ##
 
@@ -333,7 +353,10 @@ In addition to that, mental models can also imply certain degree of conflict-com
 :::
 
 ::: {.notes}
-We went through those qualitative studies on Barbour's taxonomy to formulate the items. 
+To test this...
+
+Discriminant: we compare it with belief in science
+Convergent validity: compare it with another scale measuring same construct with different theoretical reasoning
 
 :::
 
@@ -353,6 +376,11 @@ We went through those qualitative studies on Barbour's taxonomy to formulate the
 
 ![](img/pillar2/pca.png){fig-align="center"}
 
+::: {.notes}
+As an example, in one study we found that items reflecting the same mental model were grouped together, where items representing conflict and consonance -- the two extremes --- sit in the opposite direction.
+
+:::
+
 ## Results
 
 ::: {.smaller}
@@ -361,8 +389,8 @@ We went through those qualitative studies on Barbour's taxonomy to formulate the
 
 ::: {.incremental}
 * ![](resources/usa.svg){.icon} participants perceived [more conflict]{.mark} than ![](resources/de.svg){.icon} at same trait level by ~0.4SD.
-* The construct was [conceptually distinct]{.mark} from Belief in Science [(Farias et al., 2013)]{.much-smaller} ($\rho^2$ = .46 ![](resources/de.svg){.icon}, .25 ![](resources/usa.svg){.icon}) and [similar to]{.mark} Leicht et al.'s [(2021)]{.much-smaller} scale ($\rho^2$ = .57 ![](resources/de.svg){.icon} .54 ![](resources/usa.svg){.icon}), but sufficient unshared variance still left.
-* Strong-to-moderate correlations between religiosity, religious identity, and religious upbringing with [higher compatibility]{.mark} perceptions in ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon} samples.
+* The construct was [conceptually distinct]{.mark} from Belief in Science [(Farias et al., 2013)]{.much-smaller} ($\rho^2$ = .46 ![](resources/de.svg){.icon}, .25 ![](resources/usa.svg){.icon}) and [similar to]{.mark} Leicht et al.'s [(2021)]{.much-smaller} scale ($\rho^2$ = .57 ![](resources/de.svg){.icon}, .54 ![](resources/usa.svg){.icon}), but [sufficient unshared variance]{.mark} still left.
+* Religious participants who have a stronger religious identity and were brought up in a religious family tend to see [higher compatibility]{.mark}, both in ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon} samples.
 * Small-to-moderate correlations between atheist identity (both in ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon}) and science identity (only ![](resources/de.svg){.icon}) with [higher conflict]{.mark} perception. 
 * Close to zero correlation between agnostic identity with conflict/compatibility perceptions, both in ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon} samples.
 
@@ -384,19 +412,24 @@ But unlike initially suspected, context-switch here are closer to compatibility 
 
 :::
 
+::: {.notes}
+To sum up, the second manuscript concludes that
+
+:::
+
 <!-- Manuscript 3: Title #11 -->
 
 ## Manuscript ![](resources/three.svg){.icon}: Mechanistic Testing
 #### What does having different mental models predict?
 
+<div style="height: 1em;"></div>
+
 ![](img/pillar3/man3.png){.center}
 
 ::: {.notes}
-We learned from the second part of the project that religious people tend to see compatibility between sci and rel, but why many previous studies demonstrated that religious individuals, even though they tend to see compatibility between science and religion, trust science less than non-religious people.
+We learned from the second manuscript of the project that religious participants tend to see compatibility between sci and rel. However, this contradicts many previous studies demonstrating that religious individuals, even though they tend to see compatibility between science and religion, trust science less than non-religious individuals.
 
-Again, Barbour's taxonomy doesn't say anything about what it predicts so we need a help from existing theories.
-
-In this case, we have two theories offering different predictions.
+Again, Barbour's taxonomy doesn't say anything about what it predicts so we used two theories that offer different predictions.
 
 :::
 
@@ -440,7 +473,7 @@ In this case, we have two theories offering different predictions.
 :::
 
 ::: {.notes}
-The dilution effect here implies that sci and rel can be seen as substitutes so people would rely less on them or to put simply, "all roads lead to Rome". Aligning to this prediction, previous research found that....
+The dilution effect here implies that sci and rel are seen as substitutes so people would rely less on them. This aligns with a metaphor: "all roads lead to Rome". 
 
 :::
 
@@ -502,6 +535,11 @@ So we didn't find any support of the dilution effect hypothesis.
 
 :::
 
+::: {.notes}
+To sum up, the third manuscript concludes that...
+
+:::
+
 <!-- Conclusions, Contributions, and Limitations #12 -->
 
 ## Some Takeaways {.center}
@@ -545,7 +583,7 @@ So we didn't find any support of the dilution effect hypothesis.
 :::
 
 ::: {.notes}
-Here are the takeaways that I learned along with three projects that we have done...
+To wrap up my presentation, here are few takeaways that I learned along with three projects that I have done...
 
 :::
 
@@ -562,7 +600,7 @@ Here are the takeaways that I learned along with three projects that we have don
 ![](img/osr.png){.img-OSR}
 
 ::: {.notes}
-Thank you so much for your attention! I would welcome any questions or concerns that you might have.
+Thank you so much for your attention! I would welcome all questions that have.
 
 :::
 
@@ -571,7 +609,7 @@ Thank you so much for your attention! I would welcome any questions or concerns 
 [@gouldNonOverlappingMagisteria1999] [@vanleeuwenReligiousCredenceNot2014; @davoodiExplainingExistentialScientific2022]
 [@johnsonIntersectionScienceReligion2020; @riosSciencereligionCompatibilityBeliefs2019; @riosMesearchNecessarilyLess2020]
 [@fariasScientificFaithBelief2013; @leichtContentMattersPerceptions2021]
-[@kruglanskiHowManyRoads2011; @jacksonReligiousPeopleView2024] [@kundaCaseMotivatedReasoning1990] 
+[@kruglanskiHowManyRoads2011; @jacksonReligiousPeopleView2024] [@kundaCaseMotivatedReasoning1990] [@legareCoexistenceNaturalSupernatural2012; @legareReligionScienceIntegrating2011]
 
 ## References
 
