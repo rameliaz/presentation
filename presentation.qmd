@@ -44,12 +44,6 @@ Wednesday, 12 November 2025
 
 **Rizqy Amelia Zein**
 
-::: {.dateplace}
-Supervisor: Prof. Dr. Mario Gollwitzer
-
-Chair of Social Psychology, LMU Munich
-:::
-
 :::
 :::
 
@@ -68,14 +62,14 @@ Chair of Social Psychology, LMU Munich
 ::: {.smaller}
 
 * Barbour [(1966, 1998, 2000, 2002)]{.much-smaller} proposes that people can perceive science (S) and religion (R) as:
-  * Conflict: [inherently incompatible]{.mark}, then cannot mentally coexist.
-  * Independence: [separate domains]{.mark} or non-overlapping *magisteria* [(Gould, 1999)]{.much-smaller}.
+  * Conflict: [inherently incompatible]{.mark}, thus cannot mentally coexist.
+  * Independence: [non-overlapping]{.mark} domains [(Gould, 1999)]{.much-smaller}.
   * Dialogue: [distinct but incomplete]{.mark} without each other.
   * Integration: a [unified belief system]{.mark} with no categorical distinction.
 
-* [Assumptions]{.mark}: one cannot fit people neatly into one *taxon* and they are situation-dependent characteristics [(Barbour, 2002)]{.much-smaller}.
-* Perceptions of the relationship between S and R is defined as a [mental schema]{.mark} for [processing potentially competing S and R explanations]{.mark}, especially in situations in which both scientific and religious explanations are salient. 
-* I will refer to this construct as ['mental models']{.mark} later on. 
+* [Assumptions]{.mark}: one cannot fit people neatly into one *taxon* and these are situation-dependent characteristics [(Barbour, 2002)]{.much-smaller}.
+* Perceptions of the relationship between S and R are defined as a [mental schema]{.mark} for [processing potentially competing S and R explanations]{.mark}, especially in situations in which both scientific and religious explanations are salient. 
+* I will refer to this construct as ['mental models']{.mark}. 
 
 :::
 :::
@@ -174,6 +168,11 @@ Despite influential, Barbour's taxonomy is purely descriptive and remain silent 
 
 ![](img/pillar1/man1.png){.center}
 
+::: {.notes}
+This is a conceptual paper, exploring the first question.
+
+:::
+
 <!-- Manuscript 1: Theoretical Foundations #4 -->
 
 ## Some Insights {.center}
@@ -211,7 +210,7 @@ Despite influential, Barbour's taxonomy is purely descriptive and remain silent 
 :::
 
 ::: {.notes}
-People give different labels to the same model description. For example, "independence" is labelled as "compartment" or "NOMA".
+People give different labels to the same mental model. For example, "independence" is labelled as "compartment" or "NOMA".
 
 So here context-switchers, for example, would use science for school, religion for family gathering in Christmas.
 
@@ -262,7 +261,7 @@ We learned from the first pillar that Barbour's taxonomy does exist in reality a
 ::: {.column width="50%"}
 
 ::: {.smaller}
-* There have been some efforts to operationalize Barbour's taxonomy, but these studies violated Barbour's most important assumption by [assigning participants to one]{.mark} of the mental models.
+* There have been some efforts to operationalize Barbour's taxonomy, but violating Barbour's assumption by [assigning participants to one]{.mark} of the mental models.
 * One way to operationalize the taxonomy is to assume that mental models do not only differ in their [kind]{.mark} but also in their [degree]{.mark} of conflict ![](resources/arrow.svg){.icon} compatibility.
 
 :::
@@ -273,20 +272,29 @@ We learned from the first pillar that Barbour's taxonomy does exist in reality a
 
 
 ::: {.notes}
-There have been some efforts...
-
 Barbour proposes taxonomy but he cautions people not to put people into boxes and that what these studies did. And it is somewhat counterintuitive to propose a taxonomy but then tell people not to use it for categorizing people.
 
 :::
 
 ## 
 
-![](img/pillar2/continuum1.png){fig-align="center"}
+![](img/pillar2/continuum1a.png){fig-align="center"}
 
-::: {.notes}
-The first assumption, differences in kind, can be better explained with an example for each mental model.
- 
-:::
+##
+
+![](img/pillar2/continuum1b.png){fig-align="center"}
+
+##
+
+![](img/pillar2/continuum1c.png){fig-align="center"}
+
+##
+
+![](img/pillar2/continuum1d.png){fig-align="center"}
+
+##
+
+![](img/pillar2/continuum1.png){fig-align="center"}
 
 ## 
 
@@ -449,7 +457,7 @@ The dilution effect here implies that sci and rel can be seen as substitutes so 
 * A within-subject experiment (*N* = 719)
 * Participants were randomly presented with [one]{.mark} (scientific *or* religious), [two]{.mark} (always one scientific *and* one religious), and [four]{.mark} (always two scientific *and* two religious) of three existential-related incidents: [flood]{.mark}, [war]{.mark}, and [climate crisis]{.mark}.
 * The order of both *incidents* and *number of explanations* was [counterbalanced]{.mark}; each condition only appeared once.
-* Then, asked participants to rate [each explanation]{.mark} presented to them for their epistemic utility, and measured their perceptions of the relationship between S and R, and religiosity.
+* Then, we asked participants to rate [each explanation]{.mark} presented to them for their epistemic utility, and measured their perceptions of the relationship between S and R, and religiosity.
 
 :::
 :::
@@ -471,7 +479,7 @@ To test the explanatory power of the dilution effect and motivated reasoning hyp
 
 ::: incremental
 ::: {.smaller}
-* [*No* main effect]{.mark} of *n* of explanation (1 vs. 2 vs. 4) and [*no* interaction effect]{.mark} between *n* of explanation and type of explanation (S vs. R).
+* [*No* main effect]{.mark} of *number* of explanation (1 vs. 2 vs. 4) and [*no* interaction effect]{.mark} between *number* of explanation and type of explanation (S vs. R).
 * [Conflict believers]{.mark} rated [religious explanations as less useful]{.mark} than non-conflict believers (*d* = -0.71). 
 * [Scientific explanations]{.mark} were rated [consistently]{.mark} regardless of whether participants believed in a conflict or non-conflict (*d* = 0.001).
 * [Non-religious]{.mark} rated [religious explanations as less useful]{.mark} than religious participants (*d* = -1.02). 
@@ -527,7 +535,7 @@ So we didn't find any support of the dilution effect hypothesis.
 ##### **Limitations** {.center .fragment}
 
 ::: {.smaller}
-- *No* examination of boundary conditions, but it may be possible with computational modelling. 
+- *No* examination of boundary conditions, may be possible with computational modelling. 
 - Only focused on the general perceptions -- did *not* tap into domain/issue/topic-specific perceptions.
 
 :::
@@ -563,7 +571,7 @@ Thank you so much for your attention! I would welcome any questions or concerns 
 [@gouldNonOverlappingMagisteria1999] [@vanleeuwenReligiousCredenceNot2014; @davoodiExplainingExistentialScientific2022]
 [@johnsonIntersectionScienceReligion2020; @riosSciencereligionCompatibilityBeliefs2019; @riosMesearchNecessarilyLess2020]
 [@fariasScientificFaithBelief2013; @leichtContentMattersPerceptions2021]
-[@kruglanskiHowManyRoads2011; @jacksonReligiousPeopleView2024] [@kundaCaseMotivatedReasoning1990]
+[@kruglanskiHowManyRoads2011; @jacksonReligiousPeopleView2024] [@kundaCaseMotivatedReasoning1990] 
 
 ## References
 
@@ -607,6 +615,7 @@ Thank you so much for your attention! I would welcome any questions or concerns 
 * [ESSD Study 2](#b8)
 * PCA Plot: [Pilot](#b9), [Study 1](#b10), [Study 2](#b11) 
 * [Identity Scale](#b12)
+* [Interrater](#b13)
 
 :::
 
@@ -716,6 +725,14 @@ Thank you so much for your attention! I would welcome any questions or concerns 
 ## Identity Scale {#b12}
 
 ![](img/pillar2/identity.png){fig-align="center"}
+
+## Interrater {#b13}
+
+![](img/pillar2/interrater_q.png)
+
+#### *N* = 8, ICC2*k* = 0.94, 95% CI [0.90, 0.97], *F*(26, 182) = 18, *p* < .001
+
+![](img/pillar2/interrater.png){fig-align="center" width="70%"}
 
 ## Scale Perceived Utility {#c1}
 
