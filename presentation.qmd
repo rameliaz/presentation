@@ -53,6 +53,7 @@ Wednesday, 12 November 2025
 
 ::: {.notes}
 Say thanks
+
 Introduce the structure
 
 :::
@@ -160,7 +161,7 @@ Pillar 3: Mechanistic Testing
 :::
 
 ::: {.notes}
-Despite widely cited, Barbour's taxonomy remain silent in at least three following aspects which I addressed as a focus in my dissertation.
+Despite widely cited, Barbour's taxonomy has gaps in at least three aspects which I addressed as a focus in my dissertation.
 
 :::
 
@@ -174,6 +175,7 @@ Despite widely cited, Barbour's taxonomy remain silent in at least three followi
 ![](img/pillar1/man1.png){.center}
 
 ::: {.notes}
+
 The first manuscript deals with Barbour's taxonomy at the conceptual level, so we explored whether the taxonomy exists in reality...
 
 :::
@@ -215,6 +217,7 @@ The first manuscript deals with Barbour's taxonomy at the conceptual level, so w
 :::
 
 ::: {.notes}
+
 In the article we provided two main insights:
 
 Context-switchers would use science for school, religion for family gathering at Christmas.
@@ -230,9 +233,10 @@ Explanatory coexistence is a culturally universal phenomenon, which refers to th
 ![](img/pillar1/flowchart_simplified.png){style="display: block; margin: 0 auto;"}
 
 ::: {.notes}
+
 We illustrate how cognitive and motivational elements determine how people adopt these mental models in a flowchart, but this is the simplified version.
 
-Two decision diamonds here represent cognitive flexibility and motivational forces required for the activation of explanatory coexistence. If these condition aren't met, people adopt conflict.
+Two decision diamonds represent cognitive flexibility and motivational forces required for the activation of explanatory coexistence. If these condition aren't met, people adopt conflict.
 
 :::
 
@@ -246,6 +250,7 @@ Two decision diamonds here represent cognitive flexibility and motivational forc
 :::
 
 ::: {.notes}
+
 To sum up, the first manuscript concludes that...
 
 :::
@@ -260,7 +265,8 @@ To sum up, the first manuscript concludes that...
 ![](img/pillar2/man2.png){.center}
 
 ::: {.notes}
-In the second manuscript, we shift the focus from conceptual to operational level. Therefore, this manuscript questions...
+
+In the second manuscript, we shift the focus from conceptual to operational level. Therefore, this manuscript deals with operationalization through measurement.
 
 :::
 
@@ -274,9 +280,8 @@ In the second manuscript, we shift the focus from conceptual to operational leve
 ::: {.column width="50%"}
 
 ::: {.smaller}
-* There have been efforts to operationalize Barbour's taxonomy by [assigning participants to one]{.mark} of the mental models.
-* ...but this [violates]{.mark} Barbour's assumption.
-* One way to operationalize the taxonomy is to assume that mental models do not only differ in their [kind]{.mark} but also in their [degree]{.mark} of conflict ![](resources/arrow.svg){.icon} compatibility.
+* Barbour introduces a taxonomy, but he cautions [not to use it for categorizing]{.mark} people [(2002)]{.mark}.
+* As a workaround, we assume that mental models do not only differ in their [kind]{.mark} but also in their [degree]{.mark} of conflict ![](resources/arrow.svg){.icon} compatibility.
 
 :::
 :::
@@ -286,8 +291,8 @@ In the second manuscript, we shift the focus from conceptual to operational leve
 
 
 ::: {.notes}
-Barbour proposes taxonomy but he cautions not to use it for categorizing people...
-To understand these two assumptions better, I will use an example.
+
+To understand these two assumptions better, let me revisit the taxonomy with an example.
 
 :::
 
@@ -296,6 +301,7 @@ To understand these two assumptions better, I will use an example.
 ![](img/pillar2/continuum1a.png){fig-align="center"}
 
 ::: {.notes}
+
 Suppose that someone named John died of a stroke. To explain this death, people with conflict belief would say something like...
 
 :::
@@ -323,7 +329,8 @@ Suppose that someone named John died of a stroke. To explain this death, people 
 ![](img/pillar2/continuum2.png){fig-align="center"}
 
 ::: {.notes}
-In addition to that, mental models can also imply certain degree of conflict-compatibility, where "conflict" and "consonance" sit in the opposite direction.
+
+In addition to qualitative differences, mental models can also imply certain degree of conflict-compatibility, where "conflict" and "consonance" sit in the opposite direction.
  
 :::
 
@@ -333,8 +340,8 @@ In addition to that, mental models can also imply certain degree of conflict-com
 ::: {.column width="50%"}
 
 ::: {.smaller}
-* There have been some efforts to operationalize Barbour's taxonomy, but these studies violated Barbour's most important assumption by [assigning participants to one]{.mark} of the mental models.
-* One way to operationalize the taxonomy is to assume that mental models do not only differ in their [kind]{.mark} but also in their [degree]{.mark} of conflict ![](resources/arrow.svg){.icon} compatibility.
+* Barbour introduces a taxonomy, but he cautions [not to use it for categorizing]{.mark} people [(2002)]{.mark}.
+* As a workaround, we assume that mental models do not only differ in their [kind]{.mark} but also in their [degree]{.mark} of conflict ![](resources/arrow.svg){.icon} compatibility.
 * We developed [a novel measure]{.mark} that mirrors theoretical and empirical descriptions of each mental model.
 
 :::
@@ -344,7 +351,7 @@ In addition to that, mental models can also imply certain degree of conflict-com
 ::: {.incremental}
 ::: {.smaller}
 * We performed one pilot and two studies across three ![](resources/de.svg){.icon} (*N* = 2,920) and one ![](resources/usa.svg){.icon} sample (*N* = 1,197).
-* Since mental models are [culturally embedded]{.mark} [(Johnson, et al., 2020; Rios & Aveyard, 2019; Rios & Roth, 2020)]{.much-smaller}, the scale might contain a systematic cultural bias, so we performed a differential item functioning (DIF) analysis.
+* Since mental models are [culturally embedded]{.mark} [(Johnson, et al., 2020; Rios & Aveyard, 2019; Rios & Roth, 2020)]{.much-smaller}, we performed a differential item functioning (DIF) analysis.
 * Discriminant, convergent, and criterion-related validity were also tested.
 
 :::
@@ -356,7 +363,8 @@ In addition to that, mental models can also imply certain degree of conflict-com
 To test this...
 
 Discriminant: we compared it with belief in science
-Convergent validity: compared it with existing scale measuring same construct with different theoretical reasoning
+
+Convergent validity: compared it with existing scale from Leicht and colleagues which measure same construct with different theoretical reasoning
 
 :::
 
@@ -377,7 +385,8 @@ Convergent validity: compared it with existing scale measuring same construct wi
 ![](img/pillar2/pca.png){fig-align="center"}
 
 ::: {.notes}
-Taking one study as an example, we found that items reflecting the same mental model were grouped together, where items representing conflict and consonance -- the two extremes --- sit in the opposite direction.
+
+Taking one study an example, we found that items reflecting the same mental model were grouped together, where items representing conflict and consonance -- the two extremes --- sit in the opposite direction. And the pattern stays the same for the other three samples.
 
 :::
 
@@ -391,14 +400,15 @@ Taking one study as an example, we found that items reflecting the same mental m
 * ![](resources/usa.svg){.icon} participants perceived [more conflict]{.mark} than ![](resources/de.svg){.icon} with the same trait level by ~0.4SD.
 * The construct was [empirically distinct]{.mark} from Belief in Science [(Farias et al., 2013)]{.much-smaller} ($\rho^2$ = .46 ![](resources/de.svg){.icon}, .25 ![](resources/usa.svg){.icon}) and [similar to]{.mark} Leicht et al.'s [(2021)]{.much-smaller} scale ($\rho^2$ = .57 ![](resources/de.svg){.icon}, .54 ![](resources/usa.svg){.icon}), but [sufficient unshared variance]{.mark} still left.
 * Religious participants who have a stronger religious identity and were brought up in a religious family tend to see [higher compatibility]{.mark}, both in ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon} samples.
-* Small-to-moderate correlations between self-identification with atheism (both in ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon}) and science (only ![](resources/de.svg){.icon}) with [higher conflict]{.mark} perception. 
-* Close to zero correlation between identifying as agnostic and perceptions of conflict/compatibility perceptions, both in ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon} samples.
+* Moderate correlations between self-identification with atheism (both in ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon}) and science (only ![](resources/de.svg){.icon}) with [higher conflict]{.mark} perception. 
+* A very small correlation between identifying as agnostic and perceptions of conflict/compatibility perceptions, both in ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon} samples.
 
 :::
 :::
 
 
 ::: {.notes}
+
 But unlike initially suspected, context-switch here are closer to compatibility than to conflict.
 
 :::
@@ -413,6 +423,7 @@ But unlike initially suspected, context-switch here are closer to compatibility 
 :::
 
 ::: {.notes}
+
 To sum up, the second manuscript concludes that
 
 :::
@@ -427,7 +438,8 @@ To sum up, the second manuscript concludes that
 ![](img/pillar3/man3.png){.center}
 
 ::: {.notes}
-We learned from the second manuscript of the project that religious participants tend to see compatibility between sci and rel. However, this contradicts many previous studies demonstrating that religious individuals, even though they tend to see compatibility between science and religion, trust science less than non-religious individuals.
+
+We learned from the past manuscript that religious participants tend to see compatibility between sci and rel. However, this contradicts many previous studies arguing that religious individuals, even though they tend to see compatibility between science and religion, trust science less than non-religious individuals.
 
 Again, Barbour's taxonomy doesn't say anything about what it predicts so we used two theories that offer different predictions.
 
@@ -473,7 +485,9 @@ Again, Barbour's taxonomy doesn't say anything about what it predicts so we used
 :::
 
 ::: {.notes}
-The dilution effect here implies that sci and rel are seen as substitutes so people would rely less on them. This aligns with a metaphor that "all roads lead to Rome". 
+The dilution effect here implies that sci and rel are seen as substitutes so people would rely less on them. 
+
+This aligns with a metaphor that "all roads lead to Rome". 
 
 :::
 
@@ -489,7 +503,6 @@ The dilution effect here implies that sci and rel are seen as substitutes so peo
 ::: {.smaller}
 * A within-subject experiment (*N* = 719)
 * Participants were randomly presented with [one]{.mark} (scientific *or* religious), [two]{.mark} (always one scientific *and* one religious), and [four]{.mark} (always two scientific *and* two religious) of three existential-related incidents: [flood]{.mark}, [war]{.mark}, and [climate crisis]{.mark}.
-* The order of both *incidents* and *number of explanations* was [counterbalanced]{.mark}; each condition only appeared once.
 * Then, we asked participants to rate [each explanation]{.mark} presented to them for their epistemic utility, and measured their perceptions of the relationship between S and R, and religiosity.
 
 :::
@@ -501,8 +514,6 @@ The dilution effect here implies that sci and rel are seen as substitutes so peo
 
 ::: {.notes}
 To test the explanatory power of the dilution effect and motivated reasoning hypotheses, we performed...
-
-...counterbalanced so that each condition only appeared once.
 
 :::
 
@@ -536,6 +547,7 @@ So we didn't find any support of the dilution effect hypothesis.
 :::
 
 ::: {.notes}
+
 To sum up, the third manuscript concludes that...
 
 :::
@@ -555,7 +567,7 @@ To sum up, the third manuscript concludes that...
 - These perceptions are mapped on to different regions of a [unidimensional, bipolar]{.mark} construct, that is culturally embedded.
   - [Context-Switch]{.mark} is closer to compatibility than conflict, different from what was initially suspected.
   
-- This general perception of the relationship between S and R [only predicts]{.mark} how people evaluate the utility of [religious explanations]{.mark}, and *not* scientific explanations.
+- This general perception of the relationship between S and R [only predicts]{.mark} how people evaluate the utility of [religious explanations]{.mark}, but *not* scientific explanations.
 :::
 
 :::
