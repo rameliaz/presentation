@@ -71,7 +71,7 @@ Introduce the structure
   * Conflict: [inherently incompatible]{.mark}, thus cannot mentally coexist.
   * Independence: [non-overlapping]{.mark} domains [(Gould, 1999)]{.much-smaller}.
   * Dialogue: [distinct but incomplete]{.mark} without each other.
-  * Integration: a [unified belief system]{.mark} with no categorical distinction.
+  * Integration: a [unified belief system]{.mark} with no distinction.
 
 * Assumptions: (1) one [cannot fit]{.mark} people neatly [into one]{.mark} category and (2) the taxonomy is [situation-dependent]{.mark} [(Barbour, 2002)]{.much-smaller}.
 * Perceptions of the relationship between S and R are [mental schemas]{.mark} for [processing potentially competing S and R explanations]{.mark}, especially in situations in which both S and R are salient. 
@@ -206,7 +206,7 @@ The first manuscript deals with Barbour's taxonomy at the conceptual level, so w
 * [Motivational elements]{.mark}: social identity, political ideology, moral belief, epistemic needs and motives.
 * Differences in cognitive and motivational elements pave the way for [explanatory coexistence]{.mark} [(Legare et al., 2012; Legare & Visala, 2011)]{.much-smaller}.
 * Explanatory coexistence occurs because people use S and R for [different purposes]{.mark} [(Davoodi & Lombrozo, 2022)]{.much-smaller}.
-* Therefore, S and R are [processed differently]{.mark} [(Van Leeuwen, 2014)]{.much-smaller}.
+* S and R are [processed differently]{.mark} [(Van Leeuwen, 2014)]{.much-smaller}.
 
 :::
 :::
@@ -355,8 +355,8 @@ In addition to that, mental models can also imply certain degree of conflict-com
 ::: {.notes}
 To test this...
 
-Discriminant: we compare it with belief in science
-Convergent validity: compare it with another scale measuring same construct with different theoretical reasoning
+Discriminant: we compared it with belief in science
+Convergent validity: compared it with existing scale measuring same construct with different theoretical reasoning
 
 :::
 
@@ -377,7 +377,7 @@ Convergent validity: compare it with another scale measuring same construct with
 ![](img/pillar2/pca.png){fig-align="center"}
 
 ::: {.notes}
-As an example, in one study we found that items reflecting the same mental model were grouped together, where items representing conflict and consonance -- the two extremes --- sit in the opposite direction.
+Taking one study as an example, we found that items reflecting the same mental model were grouped together, where items representing conflict and consonance -- the two extremes --- sit in the opposite direction.
 
 :::
 
@@ -388,11 +388,11 @@ As an example, in one study we found that items reflecting the same mental model
   * ..but the [Context-Switch]{.mark} was closer to compatibility than conflict.
 
 ::: {.incremental}
-* ![](resources/usa.svg){.icon} participants perceived [more conflict]{.mark} than ![](resources/de.svg){.icon} at same trait level by ~0.4SD.
-* The construct was [conceptually distinct]{.mark} from Belief in Science [(Farias et al., 2013)]{.much-smaller} ($\rho^2$ = .46 ![](resources/de.svg){.icon}, .25 ![](resources/usa.svg){.icon}) and [similar to]{.mark} Leicht et al.'s [(2021)]{.much-smaller} scale ($\rho^2$ = .57 ![](resources/de.svg){.icon}, .54 ![](resources/usa.svg){.icon}), but [sufficient unshared variance]{.mark} still left.
+* ![](resources/usa.svg){.icon} participants perceived [more conflict]{.mark} than ![](resources/de.svg){.icon} with the same trait level by ~0.4SD.
+* The construct was [empirically distinct]{.mark} from Belief in Science [(Farias et al., 2013)]{.much-smaller} ($\rho^2$ = .46 ![](resources/de.svg){.icon}, .25 ![](resources/usa.svg){.icon}) and [similar to]{.mark} Leicht et al.'s [(2021)]{.much-smaller} scale ($\rho^2$ = .57 ![](resources/de.svg){.icon}, .54 ![](resources/usa.svg){.icon}), but [sufficient unshared variance]{.mark} still left.
 * Religious participants who have a stronger religious identity and were brought up in a religious family tend to see [higher compatibility]{.mark}, both in ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon} samples.
-* Small-to-moderate correlations between atheist identity (both in ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon}) and science identity (only ![](resources/de.svg){.icon}) with [higher conflict]{.mark} perception. 
-* Close to zero correlation between agnostic identity with conflict/compatibility perceptions, both in ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon} samples.
+* Small-to-moderate correlations between self-identification with atheism (both in ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon}) and science (only ![](resources/de.svg){.icon}) with [higher conflict]{.mark} perception. 
+* Close to zero correlation between identifying as agnostic and perceptions of conflict/compatibility perceptions, both in ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon} samples.
 
 :::
 :::
@@ -473,7 +473,7 @@ Again, Barbour's taxonomy doesn't say anything about what it predicts so we used
 :::
 
 ::: {.notes}
-The dilution effect here implies that sci and rel are seen as substitutes so people would rely less on them. This aligns with a metaphor: "all roads lead to Rome". 
+The dilution effect here implies that sci and rel are seen as substitutes so people would rely less on them. This aligns with a metaphor that "all roads lead to Rome". 
 
 :::
 
@@ -512,7 +512,7 @@ To test the explanatory power of the dilution effect and motivated reasoning hyp
 
 ::: incremental
 ::: {.smaller}
-* [*No* main effect]{.mark} of *number* of explanation (1 vs. 2 vs. 4) and [*no* interaction effect]{.mark} between *number* of explanation and type of explanation (S vs. R).
+* [*No* main effect]{.mark} of number of explanation (1 vs. 2 vs. 4) and [*no* interaction effect]{.mark} between number of explanation and type of explanation (S vs. R).
 * [Conflict believers]{.mark} rated [religious explanations as less useful]{.mark} than non-conflict believers (*d* = -0.71). 
 * [Scientific explanations]{.mark} were rated [consistently]{.mark} regardless of whether participants believed in a conflict or non-conflict (*d* = 0.001).
 * [Non-religious]{.mark} rated [religious explanations as less useful]{.mark} than religious participants (*d* = -1.02). 
@@ -600,7 +600,7 @@ To wrap up my presentation, here are few takeaways that I learned along with thr
 ![](img/osr.png){.img-OSR}
 
 ::: {.notes}
-Thank you so much for your attention! I would welcome all questions that have.
+Thank you so much for your attention! I would welcome all questions that you have.
 
 :::
 
@@ -638,7 +638,7 @@ Thank you so much for your attention! I would welcome all questions that have.
 * [Correlation Table Study 2 DE](#b3)
 * [Correlation Table Study 2 USA](#b4)
 * [Model Fit Pilot + Study 1](#b5)
-* [Model Fit Study 2](#b6)
+* [Model Fit Study 2 (DE & USA)](#b6)
 
 :::
 
@@ -668,12 +668,12 @@ Thank you so much for your attention! I would welcome all questions that have.
 :::{.smaller}
 * [Scale Perceived Utility](#c1)
 * [Correlation Table](#c2)
-* [Model Parameter n_exp * type_exp * conflict](#c3)
-* [Simple Simple Effects n_exp * type_exp * conflict](#c4)
-* [Plot n_exp * type_exp * conflict](#c5)
-* [Model Parameter n_exp * type_exp * religiosity](#c6)
-* [Simple Simple Effects n_exp * type_exp * religiosity](#c7)
-* [Plot n_exp * type_exp * religiosity](#c8)
+* [Model Parameter number * type * conflict](#c3)
+* [Simple Simple Effects number * type * conflict](#c4)
+* [Plot number * type * conflict](#c5)
+* [Model Parameter number * type * religiosity](#c6)
+* [Simple Simple Effects number * type * religiosity](#c7)
+* [Plot number * type * religiosity](#c8)
 * Centrality of Religiosity Scale, part [1](#c9), [2](#c10), [3](#c11), [4](#c12) 
 
 :::
@@ -756,7 +756,7 @@ Thank you so much for your attention! I would welcome all questions that have.
 
 ![](img/pillar2/pca_study1.png){fig-align="center"}
 
-## PCA Plot Study 2 {#b11}
+## PCA Plot Study 2 (DE & USA) {#b11}
 
 ![](img/pillar2/pca_study2.png){fig-align="center"}
 
@@ -780,27 +780,27 @@ Thank you so much for your attention! I would welcome all questions that have.
 
 ![](img/pillar3/zero_order.png){fig-align="center"}
 
-## Model Parameter n_exp * type_exp * conflict {#c3}
+## Model Parameter number * type * conflict {#c3}
 
 ![](img/pillar3/modpar_con.png){fig-align="center"}
 
-## Simple Simple Effects n_exp * type_exp * conflict {#c4}
+## Simple Simple Effects number * type * conflict {#c4}
 
 ![](img/pillar3/simplesimple_con.png){fig-align="center"}
 
-## Plot n_exp * type_exp * conflict {#c5}
+## Plot number * type * conflict {#c5}
 
 ![](img/pillar3/plot_conflict.png){fig-align="center"}
 
-## Model Parameter n_exp * type_exp * religiosity {#c6}
+## Model Parameter number * type * religiosity {#c6}
 
 ![](img/pillar3/modpar_rel.png){fig-align="center"}
 
-## Simple Simple Effects n_exp * type_exp * religiosity {#c7}
+## Simple Simple Effects number * type * religiosity {#c7}
 
 ![](img/pillar3/simplesimple_rel.png){fig-align="center"}
 
-## Plot n_exp * type_exp * conflict {#c8}
+## Plot number * type * religiosity {#c8}
 
 ![](img/pillar3/plot_religious.png){fig-align="center"}
 
