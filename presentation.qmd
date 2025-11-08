@@ -242,17 +242,14 @@ Two decision diamonds represent cognitive flexibility and motivational forces re
 
 <!-- Manuscript 1: Conclusion #6 -->
 
-## 
+## Manuscript 1: Conclusion
 
 ::: {style="text-align: center;"}
 ### In order to hold "non-conflict" beliefs (i.e., compartment, complementary, and consonance), individuals should be cognitively flexible and motivated to reconcile; otherwise, they adopt "conflict" beliefs (i.e, conflict & context-switch) {.center}
-
 :::
 
 ::: {.notes}
-
 To sum up, the first manuscript concludes that...
-
 :::
 
 <!-- Manuscript 2: Title #7 -->
@@ -280,7 +277,7 @@ In the second manuscript, we shift the focus from conceptual to operational leve
 ::: {.column width="50%"}
 
 ::: {.smaller}
-* Barbour introduces a taxonomy, but he cautions [not to use it for categorizing]{.mark} people [(2002)]{.mark}.
+* Barbour introduces a taxonomy, but he cautions [not to use it for categorizing]{.mark} people [(2002)]{.much-smaller}.
 * As a workaround, we assume that mental models do not only differ in their [kind]{.mark} but also in their [degree]{.mark} of conflict ![](resources/arrow.svg){.icon} compatibility.
 
 :::
@@ -291,6 +288,7 @@ In the second manuscript, we shift the focus from conceptual to operational leve
 
 
 ::: {.notes}
+When talking about operationalization, we faced a problem....
 
 To understand these two assumptions better, let me revisit the taxonomy with an example.
 
@@ -301,7 +299,6 @@ To understand these two assumptions better, let me revisit the taxonomy with an 
 ![](img/pillar2/continuum1a.png){fig-align="center"}
 
 ::: {.notes}
-
 Suppose that someone named John died of a stroke. To explain this death, people with conflict belief would say something like...
 
 :::
@@ -322,6 +319,11 @@ Suppose that someone named John died of a stroke. To explain this death, people 
 
 ![](img/pillar2/continuum1.png){fig-align="center"}
 
+::: {.notes}
+Here it's clear that these mental models are qualitatively different from each other and this is what I meant by "differences in kind"
+
+:::
+
 ## 
 
 <div style="height: 2.5em;"></div>
@@ -329,8 +331,7 @@ Suppose that someone named John died of a stroke. To explain this death, people 
 ![](img/pillar2/continuum2.png){fig-align="center"}
 
 ::: {.notes}
-
-In addition to qualitative differences, mental models can also imply certain degree of conflict-compatibility, where "conflict" and "consonance" sit in the opposite direction.
+In addition to qualitative differences, mental models can also imply certain degree of conflict-compatibility. In this case, we can order this mental models based on their degree of conflict to compatbility, where "conflict" and "consonance" sit in the opposite direction. While here in the middle, we have context-switch, compartment and complementary.
  
 :::
 
@@ -340,7 +341,7 @@ In addition to qualitative differences, mental models can also imply certain deg
 ::: {.column width="50%"}
 
 ::: {.smaller}
-* Barbour introduces a taxonomy, but he cautions [not to use it for categorizing]{.mark} people [(2002)]{.mark}.
+* Barbour introduces a taxonomy, but he cautions [not to use it for categorizing]{.mark} people [(2002)]{.much-smaller}.
 * As a workaround, we assume that mental models do not only differ in their [kind]{.mark} but also in their [degree]{.mark} of conflict ![](resources/arrow.svg){.icon} compatibility.
 * We developed [a novel measure]{.mark} that mirrors theoretical and empirical descriptions of each mental model.
 
@@ -352,7 +353,7 @@ In addition to qualitative differences, mental models can also imply certain deg
 ::: {.smaller}
 * We performed one pilot and two studies across three ![](resources/de.svg){.icon} (*N* = 2,920) and one ![](resources/usa.svg){.icon} sample (*N* = 1,197).
 * Since mental models are [culturally embedded]{.mark} [(Johnson, et al., 2020; Rios & Aveyard, 2019; Rios & Roth, 2020)]{.much-smaller}, we performed a differential item functioning (DIF) analysis.
-* Discriminant, convergent, and criterion-related validity were also tested.
+* Discriminant (vs. Belief in Science, [Farias et al., 2013]{.much-smaller}), convergent (vs. [Leicht et al., 2021]{.much-smaller}), and criterion-related validity were also tested.
 
 :::
 :::
@@ -364,7 +365,7 @@ To test this...
 
 Discriminant: we compared it with belief in science
 
-Convergent validity: compared it with existing scale from Leicht and colleagues which measure same construct with different theoretical reasoning
+Convergent validity: compared it with existing scale from Leicht and colleagues which measure same construct with different theoretical reasoning than ours
 
 :::
 
@@ -385,7 +386,6 @@ Convergent validity: compared it with existing scale from Leicht and colleagues 
 ![](img/pillar2/pca.png){fig-align="center"}
 
 ::: {.notes}
-
 Taking one study an example, we found that items reflecting the same mental model were grouped together, where items representing conflict and consonance -- the two extremes --- sit in the opposite direction. And the pattern stays the same for the other three samples.
 
 :::
@@ -415,17 +415,14 @@ But unlike initially suspected, context-switch here are closer to compatibility 
 
 <!-- Manuscript 2: Conclusion #10 -->
 
-## 
+## Manuscript 2: Conclusion
 
 ::: {style="text-align: center;"}
 ### Perceptions of the relationship between S and R are unidimensional, bipolar construct, with mental models representing certain regions along this continuum. {.center}
-
 :::
 
 ::: {.notes}
-
 To sum up, the second manuscript concludes that
-
 :::
 
 <!-- Manuscript 3: Title #11 -->
@@ -477,9 +474,7 @@ Again, Barbour's taxonomy doesn't say anything about what it predicts so we used
   * [High reliance on either]{.mark} S *or* R reflects an underlying [conflict]{.mark} belief.
 
 :::
-
 :::
-
 
 :::
 :::
@@ -539,17 +534,14 @@ So we didn't find any support of the dilution effect hypothesis.
 
 <!-- Manuscript 3: Conclusion #15 -->
 
-## 
+## Manuscript 3: Conclusion
 
 ::: {style="text-align: center;"}
 ### Perceptions of the relationship between S and R predict how individuals evaluate the utility of religious explanations, but not scientific explanations. {.center}
-
 :::
 
 ::: {.notes}
-
 To sum up, the third manuscript concludes that...
-
 :::
 
 <!-- Conclusions, Contributions, and Limitations #12 -->
@@ -666,6 +658,10 @@ Thank you so much for your attention! I would welcome all questions that you hav
 * PCA Plot: [Pilot](#b9), [Study 1](#b10), [Study 2](#b11) 
 * [Identity Scale](#b12)
 * [Interrater](#b13)
+* [Item Response Function (IRF)](#b14)
+* [Item Information Curve (IIC)](#b15) 
+* [Expected Item Score DIF](#b16)
+* [Expected Test Score DIF](#b17)
 
 :::
 
@@ -777,12 +773,27 @@ Thank you so much for your attention! I would welcome all questions that you hav
 ![](img/pillar2/identity.png){fig-align="center"}
 
 ## Interrater {#b13}
-
-![](img/pillar2/interrater_q.png)
-
-#### *N* = 8, ICC2*k* = 0.94, 95% CI [0.90, 0.97], *F*(26, 182) = 18, *p* < .001
-
+[Goal: Asking raters to predict item locations]{.smaller}
+![](img/pillar2/interrater_q.png){fig-align="center" width="70%"}
 ![](img/pillar2/interrater.png){fig-align="center" width="70%"}
+
+[*N* = 8, ICC2*k* = 0.94, 95% CI [0.90, 0.97], *F*(26, 182) = 18, *p* < .001]{.smaller}
+
+## Item Response Function (IRF) {#b14}
+
+![](img/pillar2/IRF.png){fig-align="center"}
+
+## Item Information Curve (IIC) {#b15}
+
+![](img/pillar2/IIC.png){fig-align="center"}
+
+## Expected Item Score DIF {#b16}
+
+![](img/pillar2/DIF_item.png){fig-align="center"}
+
+## Expected Test Score DIF {#b17}
+
+![](img/pillar2/DIF_test.png){fig-align="center"}
 
 ## Scale Perceived Utility {#c1}
 
