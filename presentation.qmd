@@ -665,6 +665,7 @@ Thank you so much for your attention! I would welcome all questions that you hav
 * [Item Information Curve (IIC)](#b15) 
 * [Expected Item Score DIF](#b16)
 * [Expected Test Score DIF](#b17)
+* [Descriptive Statistics - Religious Affiliations](#b18)
 
 :::
 
@@ -797,6 +798,27 @@ Thank you so much for your attention! I would welcome all questions that you hav
 ## Expected Test Score DIF {#b17}
 
 ![](img/pillar2/DIF_test.png){fig-align="center"}
+
+## Descriptive Statistics[^1], Religious Affiliations, Study 2 {#b18}
+
+::: {.columns}
+::: {.column width="50%"}
+
+German Sample, *N* = 1,195
+
+![](img/pillar2/desc_de.png){fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+
+US American Sample, *N* = 1,197
+
+![](img/pillar2/desc_us.png){fig-align="center"}
+:::
+:::
+
+[^1]: Positive values indicate that the group means is trending towards conflict.
 
 ## Scale Perceived Utility {#c1}
 
