@@ -598,7 +598,7 @@ We don't know yet if Barbour's taxonomy is situation-dependent characteristics
 
 ## Thank you 🙏 {.center}
 
-##### Project Supported by: {.center}
+##### Project generously supported by: {.center}
 
 ![](img/DAAD.png){.img-DAAD}
 
