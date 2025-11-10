@@ -207,7 +207,7 @@ The first manuscript deals with Barbour's taxonomy at the conceptual level, so w
 * [Cognitive elements]{.mark}: cognitive flexibility, epistemic belief.
 * [Motivational elements]{.mark}: social identity, political ideology, moral belief, epistemic needs and motives.
 * Differences in cognitive and motivational elements pave the way for [explanatory coexistence]{.mark} [(Legare et al., 2012; Legare & Visala, 2011)]{.much-smaller}.
-* Explanatory coexistence occurs because people use S and R for [different purposes]{.mark} [(Davoodi & Lombrozo, 2022)]{.much-smaller}.
+* Explanatory coexistence occurs because individuals use S and R for [different purposes]{.mark} [(Davoodi & Lombrozo, 2022)]{.much-smaller}.
 * S and R are [processed differently]{.mark} [(Van Leeuwen, 2014)]{.much-smaller}.
 
 :::
@@ -222,7 +222,7 @@ In the article we provided two main insights:
 
 Context-switchers would use science for school, religion for family gathering at Christmas.
 
-Explanatory coexistence is a culturally universal phenomenon, which refers to the simultaneous use of natural (scientific) and supernatural (religious) explanations for the same phenomenon. 
+Explanatory coexistence is a culturally universal phenomenon, where people simultaneously use natural (scientific) and supernatural (religious) explanations for the same phenomenon. 
 
 :::
 
@@ -819,6 +819,13 @@ US American Sample, *N* = 1,197
 :::
 
 [^1]: Positive values indicate that the group means is trending towards conflict.
+
+::: {.notes}
+Others in DE: Freikirchlich, Sikh
+
+Others in US Sample: Mormon, Jehovah Witnesses, Baptist, Pentecost, Paganism
+
+:::
 
 ## Scale Perceived Utility {#c1}
 
