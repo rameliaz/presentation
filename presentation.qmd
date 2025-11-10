@@ -75,7 +75,7 @@ Introduce the structure
   * Integration: a [unified belief system]{.mark} with no distinction.
 
 * Assumptions: (1) one [cannot fit]{.mark} people neatly [into one]{.mark} category and (2) the taxonomy is [situation-dependent]{.mark} [(Barbour, 2002)]{.much-smaller}.
-* Perceptions of the relationship between S and R are [mental schemas]{.mark} for [processing potentially competing S and R explanations]{.mark}, especially in situations in which both S and R are salient. 
+* Perceptions of the relationship between S and R are [mental schemas]{.mark} that represent how these domains relate and [guide interpretation of potentially competing S and R explanations]{.mark}. 
 * I will refer to this construct as ['mental models']{.mark}. 
 
 :::
@@ -269,7 +269,7 @@ In the second manuscript, we shift the focus from conceptual to operational leve
 
 <!-- Manuscript 2: Rationale + Theoretical Background #8 -->
 
-## Rationale & Theory
+## Rationale & Design
 
 ::: {.incremental}
 ::: {.columns}
@@ -320,7 +320,7 @@ Suppose that someone named John died of a stroke. To explain this death, people 
 ![](img/pillar2/continuum1.png){fig-align="center"}
 
 ::: {.notes}
-Here it's clear that these mental models are qualitatively different from each other and this is what I meant by "differences in kind"
+From these examples, we could conclude that mental models are qualitatively different from each other and this is what I meant by "differences in kind"
 
 :::
 
@@ -331,11 +331,11 @@ Here it's clear that these mental models are qualitatively different from each o
 ![](img/pillar2/continuum2.png){fig-align="center"}
 
 ::: {.notes}
-In addition to qualitative differences, mental models can also imply certain degree of conflict-compatibility. In this case, we can order this mental models based on their degree of conflict to compatbility, where "conflict" and "consonance" sit in the opposite direction. While here in the middle, we have context-switch, compartment and complementary.
+In addition to qualitative differences, we can also order this mental models based on their degree of conflict to compatibility, where "conflict" and "consonance" sit in the opposite direction. While here in the middle, we have context-switch, compartment and complementary.
  
 :::
 
-## Rationale 
+## Rationale & Design
 
 ::: {.columns}
 ::: {.column width="50%"}
@@ -343,7 +343,7 @@ In addition to qualitative differences, mental models can also imply certain deg
 ::: {.smaller}
 * Barbour introduces a taxonomy, but he cautions [not to use it for categorizing]{.mark} people [(2002)]{.much-smaller}.
 * As a workaround, we assume that mental models do not only differ in their [kind]{.mark} but also in their [degree]{.mark} of conflict ![](resources/arrow.svg){.icon} compatibility.
-* We developed [a novel measure]{.mark} that mirrors theoretical and empirical descriptions of each mental model.
+* To test Barbour's claims, we developed [a novel measure]{.mark} that mirrors theoretical and empirical descriptions of each mental model.
 
 :::
 :::
@@ -376,7 +376,7 @@ Convergent validity: compared it with existing scale from Leicht and colleagues 
 ::: {.incremental}
 
 ::: {.smaller}
-* Scale data in four samples showed that the construct is [unidimensional and bipolar]{.mark}.
+* As expected, scale data in four samples showed that the construct is [unidimensional and bipolar]{.mark}.
 
 :::
 :::
@@ -393,23 +393,22 @@ Taking one study an example, we found that items reflecting the same mental mode
 ## Results
 
 ::: {.smaller}
-* Scale data in four samples showed that the construct is [unidimensional and bipolar]{.mark}.
+* As expected, scale data in four samples showed that the construct is [unidimensional and bipolar]{.mark}.
   * ..but the [Context-Switch]{.mark} was closer to compatibility than conflict.
 
 ::: {.incremental}
 * ![](resources/usa.svg){.icon} participants perceived [more conflict]{.mark} than ![](resources/de.svg){.icon} with the same trait level by ~0.4SD.
-* The construct was [empirically distinct]{.mark} from Belief in Science [(Farias et al., 2013)]{.much-smaller} ($\rho^2$ = .46 ![](resources/de.svg){.icon}, .25 ![](resources/usa.svg){.icon}) and [similar to]{.mark} Leicht et al.'s [(2021)]{.much-smaller} scale ($\rho^2$ = .57 ![](resources/de.svg){.icon}, .54 ![](resources/usa.svg){.icon}), but [sufficient unshared variance]{.mark} still left.
-* Religious participants who have a stronger religious identity and were brought up in a religious family tend to see [higher compatibility]{.mark}, both in ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon} samples.
-* Moderate correlations between self-identification with atheism (both in ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon}) and science (only ![](resources/de.svg){.icon}) with [higher conflict]{.mark} perception. 
-* A very small correlation between identifying as agnostic and perceptions of conflict/compatibility perceptions, both in ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon} samples.
+* The construct was [empirically distinct]{.mark} from Belief in Science [(Farias et al., 2013)]{.much-smaller} ($\rho^2$ = .46 ![](resources/de.svg){.icon}, .25 ![](resources/usa.svg){.icon}) and [similar to]{.mark} Leicht et al.'s [(2021)]{.much-smaller} scale ($\rho^2$ = .57 ![](resources/de.svg){.icon}, .54 ![](resources/usa.svg){.icon}), but [substantial unshared variance]{.mark} still left.
+* Religious participants who have a stronger religious identity and were brought up in a religious family tend to perceive [higher compatibility]{.mark}, both in ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon} samples.
+* Moderate correlations were found between self-identification with atheism (both in ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon}) and science (only ![](resources/de.svg){.icon}) with [higher conflict]{.mark} perception. 
+* A very small correlation was found between identifying as agnostic with perceptions of conflict/compatibility perceptions, both in ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon} samples.
 
 :::
 :::
 
 
 ::: {.notes}
-
-But unlike initially suspected, context-switch here are closer to compatibility than to conflict.
+ ...meaning that our scale tapped into a unique variance of how people perceive the relationship that the Leicht scale cannot capture
 
 :::
 
@@ -436,9 +435,9 @@ To sum up, the second manuscript concludes that
 
 ::: {.notes}
 
-We learned from the past manuscript that religious participants tend to see compatibility between sci and rel. However, this contradicts many previous studies arguing that religious individuals, even though they tend to see compatibility between science and religion, trust science less than non-religious individuals.
+We learned from the past manuscript that religious participants tend to see compatibility between sci and rel. However, this contradicts many previous studies showing that religious individuals, even though they tend to see compatibility between science and religion, trust science less than non-religious individuals.
 
-Again, Barbour's taxonomy doesn't say anything about what it predicts so we used two theories that offer different predictions.
+Barbour's doesn't say anything about this so we used two theories that offer different predictions.
 
 :::
 
@@ -508,7 +507,7 @@ This aligns with a metaphor that "all roads lead to Rome".
 ![](img/pillar3/exp.png){.image-right}
 
 ::: {.notes}
-To test the explanatory power of the dilution effect and motivated reasoning hypotheses, we performed...
+To test the explanatory power of these hypotheses, we performed...
 
 :::
 
@@ -528,7 +527,9 @@ To test the explanatory power of the dilution effect and motivated reasoning hyp
 :::
 
 ::: {.notes}
-So we didn't find any support of the dilution effect hypothesis.
+So this mean we didn't find any support of the dilution effect hypothesis.
+
+We found some evidence for the motivated reasoning hypothesis, but it only assymetrically applies to religious explanations.
 
 :::
 
@@ -588,6 +589,8 @@ To sum up, the third manuscript concludes that...
 
 ::: {.notes}
 To wrap up my presentation, here are few takeaways that I learned along with three projects that I have done...
+
+We don't know yet if Barbour's taxonomy is situation-dependent characteristics
 
 :::
 
