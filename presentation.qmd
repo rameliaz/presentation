@@ -399,9 +399,9 @@ Taking one study an example, we found that items reflecting the same mental mode
 ::: {.incremental}
 * ![](resources/usa.svg){.icon} participants perceived [more conflict]{.mark} than ![](resources/de.svg){.icon} with the same trait level by ~0.4SD.
 * The construct was [empirically distinct]{.mark} from Belief in Science [(Farias et al., 2013)]{.much-smaller} ($\rho^2$ = .46 ![](resources/de.svg){.icon}, .25 ![](resources/usa.svg){.icon}) and [similar to]{.mark} Leicht et al.'s [(2021)]{.much-smaller} scale ($\rho^2$ = .57 ![](resources/de.svg){.icon}, .54 ![](resources/usa.svg){.icon}), but [substantial unshared variance]{.mark} still left.
-* Religious participants who have a stronger religious identity and were brought up in a religious family tend to perceive [higher compatibility]{.mark}, both in ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon} samples.
-* Moderate correlations were found between self-identification with atheism (both in ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon}) and science (only ![](resources/de.svg){.icon}) with [higher conflict]{.mark} perception. 
-* A very small correlation was found between identifying as agnostic with perceptions of conflict/compatibility perceptions, both in ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon} samples.
+* Religious participants who have a stronger religious identity and were brought up in a religious family tended to perceive [higher compatibility]{.mark}, both in ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon} samples.
+* Participants with stronger identification with atheism were more likely to construe [an intense conflict]{.mark}, both in ![](resources/de.svg){.icon} and ![](resources/usa.svg){.icon}. 
+
 
 :::
 :::
@@ -596,7 +596,7 @@ We don't know yet if Barbour's taxonomy is situation-dependent characteristics
 
 <!-- Closing #13 -->
 
-## Thank you 🙏 {.center}
+## Thank you! {.center}
 
 ##### Project generously supported by: {.center}
 
