@@ -666,6 +666,7 @@ Thank you so much for your attention! I would welcome all questions that you hav
 * [Expected Item Score DIF](#b16)
 * [Expected Test Score DIF](#b17)
 * [Descriptive Statistics - Religious Affiliations](#b18)
+* [What is Context?](#b19)
 
 :::
 
@@ -826,6 +827,10 @@ Others in DE: Freikirchlich, Sikh
 Others in US Sample: Mormon, Jehovah Witnesses, Baptist, Pentecost, Paganism
 
 :::
+
+## What is context? {#b19}
+
+![](img/pillar2/context.png){fig-align="center"}
 
 ## Scale Perceived Utility {#c1}
 
